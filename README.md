@@ -56,7 +56,7 @@ pip install mecab-python
 ```
 
 ### 1. KORANI Datasets
-![korani_task_taxonomy](https://github.com/CHLee0801/KORANI-Instruction-Tuning/assets/87512263/1eb419b8-49b5-4780-9034-ccdff4a0d695)
+![korani_task_taxonomy](https://github.com/CHLee0801/KORANI-Instruction-Tuning/assets/87512263/606c0f59-3de5-4993-bd91-b37d8f227678)
 KORANI datasets and task taxonomy. Green datasets are NLG datasets. Yellow datasets are NLU datasets.
 
 
