@@ -1,0 +1,1527 @@
+input,output,choices,dataset_name,id
+"Are the following two sentences ""equivalent"" or ""not equivalent""?
+Stealing identities and credit card numbers with bogus e-mail and websites that appear to come from legitimate companies is an increasing problem on the Internet , federal officials warned Monday .
+Stealing identities and credit-card numbers with bogus e-mail and Web sites that appear to come from legitimate companies is an increasing problem on the Internet , federal officials warned yesterday .",equivalent,not equivalent|||equivalent,mrpc,2751
+"What key details about alfred garth jones
+ can be extracted from the following bio?
+
+Bio: alfred garth jones -lrb- 1872 -- 1955 -rrb- was an english artist and illustrator who worked mainly in woodcut , pen and ink line art drawing and watercolour .","- image is agjones.jpg
+
+
+
+- birth name is alfred jones
+
+
+
+- occupation is artist , illustrator
+
+
+
+- death date is 6 july 1955
+
+
+
+- name is alfred garth jones
+
+
+
+- death place is sidcup
+
+
+
+- nationality is british
+
+
+
+- born is manchester , great britain
+
+
+
+- imagesize is 280px
+
+
+
+- field is illustration
+
+
+
+- birth place is manchester , england
+
+
+
+- birth date is 10 august 1872",,wiki_bio,21451
+"if a habitat is destroyed then that habitat
+
+Pick the right answer from the list:
+- is clean
+- is smelly
+- is super
+- is gone forever",is gone forever,is clean|||is smelly|||is super|||is gone forever,openbookqa,3763
+"Mariah was cooking breakfast. She spilled the milk all over the kitchen counter.
+
+Would you rather believe that:
+
+Mariah poured milk gently into the bowl,
+
+or:
+
+Mariah poured milk too quickly into the bowl?",Mariah poured milk too quickly into the bowl,Mariah poured milk gently into the bowl|||Mariah poured milk too quickly into the bowl,art,2890
+"Is there a negative or positive tone to this product review?
+===
+Title: embarrassing indeed
+Review: Though I suppose that Mr Paolini is quite well off for the moment, somebody should get him down to earth and get him to know that things like that are no feat and that his readers (unless they do earnestly think that this bunk is ""innovative"") are bored to the bones.
+Answer:",Negative,Negative|||Positive,amazon,37428
+"Finish the following sentence with the best choice: To make strawberries less sour,
+
+Choices:
+- eat them with a bit of flour fixed in.
+- eat them with a sprinkle of sugar.
+
+Answer:",eat them with a sprinkle of sugar.,eat them with a bit of flour fixed in.|||eat them with a sprinkle of sugar.,piqa,4225
+"I have a new situation: Rob is a biologist who is interested in native species conservation. To that end, he conducted two studies, case A and case B. In case A, a non native apex predator C was introduced in formerly apex predator D's habitat. In case B, same non native apex predator C was removed from formerly apex predator D's habitat. He now needs to analyze the results of these studies.
+
+But I can use this background: Apex predators affect prey species' population dynamics and populations of other predators, both in aquatic and in terrestrial ecosystems. Non-native predatory fish, for instance, have sometimes devastated formerly dominant predators. A lake manipulation study found that when the non-native smallmouth bass was removed, lake trout, the suppressed native apex predator, diversified its prey selection and increased its trophic level. As a terrestrial example, the badger, an apex predator, predates on and also competes with the hedgehog, a mesopredator, for food such as insects, small mammals, reptiles, amphibians and ground-nesting bird's eggs. Removal of badgers (in a trial investigating bovine tuberculosis) caused hedgehog densities to more than double. Predators that exert a top-down control on organisms in their community are often considered keystone species. Humans are not considered apex predators because their diets are typically diverse, although human trophic levels increase with consumption of meat.
+
+What is an answer for this question: Would predator D's prey selection be less or more diversified in case A than in case B?",less,,ropes,9678
+"Refer to the passage below and answer the following question:
+
+Passage: There are 29 isotopes of copper. 63Cu and 65Cu are stable, with 63Cu comprising approximately 69% of naturally occurring copper; they both have a spin of 3⁄2. The other isotopes are radioactive, with the most stable being 67Cu with a half-life of 61.83 hours. Seven metastable isotopes have been characterized, with 68mCu the longest-lived with a half-life of 3.8 minutes. Isotopes with a mass number above 64 decay by β−, whereas those with a mass number below 64 decay by β+. 64Cu, which has a half-life of 12.7 hours, decays both ways.
+
+Question: How many isotopes are there of copper?",29,,squad,26759
+a cinematic sleeping pill of impressive potency . What is the sentiment expressed by the reviewer for the movie?,negative,negative|||positive,rotten_tomatoes,7283
+"Passage: Coming off their season-opening win over the Titans, the Steelers flew to Soldier Field for a Week 2 interconference duel with the Chicago Bears.  In the first quarter, Pittsburgh struck first as quarterback Ben Roethlisberger completed a 1-yard touchdown pass to tight end Matt Spaeth.  However, in the second quarter, the Bears answered with quarterback Jay Cutler completing a 6-yard touchdown pass to tight end Kellen Davis. Pittsburgh would regain their lead in the third quarter as Roethlisberger got a 2-yard touchdown run, but in the fourth quarter, two missed field goals from kicker Jeff Reed would lead to Cutler's 7-yard touchdown pass to wide receiver Johnny Knox and kicker Robbie Gould's 44-yard field goal.
+Question: How many yards was Cutler's longest touchdown pass?
+Answer:",7,,drop,13986
+"The farther the sound waves travel away from the source, the more spread out their energy becomes.
+
+Having read the above passage, choose the right answer to the following question (choices are more or less ):
+
+
+A sound wave, very far away from its source, is spread out more or less than near its origin?",more,more|||less,quartz,341
+"But while Claremont remains the most concentrated hub of Whiteheadian activity, the place where Whitehead's thought currently seems to be growing the most quickly is in China. In order to address the challenges of modernization and industrialization, China has begun to blend traditions of Taoism, Buddhism, and Confucianism with Whitehead's ""constructive post-modern"" philosophy in order to create an ""ecological civilization."" To date, the Chinese government has encouraged the building of twenty-three university-based centers for the study of Whitehead's philosophy, and books by process philosophers John Cobb and David Ray Griffin are becoming required reading for Chinese graduate students. Cobb has attributed China's interest in process philosophy partly to Whitehead's stress on the mutual interdependence of humanity and nature, as well as his emphasis on an educational system that includes the teaching of values rather than simply bare facts.
+
+With reference to the above context, Why does John Cobb believe China has become interested in process philosophy?","interdependence of humanity and nature, as well as his emphasis on an educational system that includes the teaching of values rather than simply bare facts",,squad,8750
+"` Well , if you are resolved to free me , listen to my advice . Stand a little on one side , and then , when the serpent rises to the surface , I will say to him , `` O serpent , to-day you can eat two people . But you had better begin first with the young man , for I am chained and can not run away . '' When he hears this most likely he will attack you . ' So the young man stood carefully on one side , and by-and-bye he heard a great rushing in the water ; and a horrible monster came up to the surface and looked out for the rock where the king 's daughter was chained , for it was getting late and he was hungry . But she cried out , ' O serpent , to-day you can eat two people . And you had better begin with the young man , for I am chained and can not run away . ' Then the serpent made a rush at the youth with wide open jaws to swallow him at one gulp , but the young man leaped aside and drew his sword , and fought till he had cut off all the seven heads . And when the great serpent lay dead at his feet he loosed the bonds of the king 's daughter , and she flung herself into his arms and said , ` You have saved me from that monster , and now you shall be my husband , for my father has made a proclamation that whoever could slay the serpent should have his daughter to wife . ' But he answered , ' I can not become your husband yet , for I have still far to travel . But wait for me seven years and seven months . Then , if I do not return , you are free to marry whom you will . And in case you should have forgotten , I will take these seven tongues with me so that when I bring them forth you may know that I am really he who slew the serpent . ' So saying he cut out the seven tongues , and the princess gave him a thick cloth to wrap them in ; and he mounted his horse and rode away . Not long after he had gone there arrived at the river a slave who had been sent by the king to learn the fate of his beloved daughter . And when the slave saw the princess standing free and safe before him , with the body of the... And the XXXXX was called upon to tell how he had slain the monster , and when he had ended the king declared that he should have the princess to wife .
+
+Which of the following options replaces XXXXX the best in the above story?
+aid, gulp, heads, husband, man, place, serpent, slave, surface, water",slave,aid|||gulp|||heads|||husband|||man|||place|||serpent|||slave|||surface|||water,cbt,26471
+"Pick one category for the following text. The options are - company, educational institution, artist, athlete, office holder, mean of transportation, building, natural place, village, animal, plant, album, film or written work. Kogswell Cycles -  Kogswell Cycles Inc. was a small bicycle frame company with its headquarters in El Dorado Hills California. Kogswell frames are designed in the United States and manufactured in Taiwan. Kogswell frames often run counter to mainstream bicycle industry trends.",Company,Company|||Educational Institution|||Artist|||Athlete|||Office Holder|||Mean Of Transportation|||Building|||Natural Place|||Village|||Animal|||Plant|||Album|||Film|||Written Work,dbpedia,7352
+"Which of the following better fits the description?
+
+Is it that: 
+
+She decided to make her own,,
+
+or rather: 
+
+Nora decided to make her own , but burnt it?
+
+Description: 
+
+Nora was craving pizza for dinner. It turned out great.","She decided to make her own,","She decided to make her own,|||Nora decided to make her own , but burnt it",art,49025
+"Construct a sentence with the word wall. 
+
+Hint: Use frame, construct, wall to restrict the output sentence.",wall constructed of a wood frame with rocks as filler the wall will,,common_gen,39586
+"The rally took place on October 17, the shooting on February 29. Again, standard filmmaking techniques are interpreted as smooth distortion: ""Moore works by depriving you of context and guiding your mind to fill the vacuum -- with completely false ideas. It is brilliantly, if unethically, done."" As noted above, the ""from my cold dead hands"" part is simply Moore's way to introduce Heston. Did anyone but Moore's critics view it as anything else? He certainly does not ""attribute it to a speech where it was not uttered"" and, as noted above, doing so twice would make no sense whatsoever if Moore was the mastermind deceiver that his critics claim he is. Concerning the Georgetown Hoya interview where Heston was asked about Rolland, you write: ""There is no indication that [Heston] recognized Kayla Rolland's case."" This is naive to the extreme -- Heston would not be president of the NRA if he was not kept up to date on the most prominent cases of gun violence. Even if he did not respond to that part of the interview, he certainly knew about the case at that point. Regarding the NRA website excerpt about the case and the highlighting of the phrase ""48 hours after Kayla Rolland is pronounced dead"": This is one valid criticism, but far from the deliberate distortion you make it out to be; rather, it is an example for how the facts can sometimes be easy to miss with Moore's fast pace editing. The reason the sentence is highlighted is not to deceive the viewer into believing that Heston hurried to Flint to immediately hold a rally there (as will become quite obvious), but simply to highlight the first mention of the name ""Kayla Rolland"" in the text, which is in this paragraph. 
+
+Question: How many times does Moore use the ""from my cold, dead hands"" quote?
+I think ""many times"" is a valid answer. Could you confirm? Yes or no?",No,No|||Yes,multirc,187
+"'Given the message: i dont want this blog to be too similar to many others but i may occasionally post a picture of something i feel is an accomplishment or something i am proud of. 
+
+Out of the options, sadness, joy, love, anger, fear and surprise, 
+
+the emotion in the message is",joy',sadness|||joy|||love|||anger|||fear|||surprise,emotion,6993
+"Once upon a time Jimmy had a mother who told him that he was good at music. Jimmy wanted to play music. He did not know which instrument to play, so he tried a piano first. The piano went like a sound. Then he tried a guitar. The guitar played. His brother told him that the piano was better to start, so Jimmy played the piano. He hammered on the keys. Jimmy's brother liked this, but mom did not like this. Jimmy tried playing very quiet. Jimmy's mom liked this, but Jimmy's brother did not like this. Jimmy tried playing in the middle. Jimmy liked this, and Jimmy's mom liked this, and Jimmy's brother liked this. It was great. 
+Question: When Jimmy hammered on the keys, who didn't like it? 
+Is the correct answer Jimmy's brother?",No,No|||Yes,multirc,9625
+"You are presented with the question ""What would wind going through a whistle cause?"" and the following answer choices: 
+- vortex
+ - friction
+ - vibrant colors
+ - waves
+ - Energy.
+ - kinetic energy
+ - absence of sound
+ - vibrations
+
+Now knowing that blowing air into a whistle causes air to vibrate inside the whistle and soon the wind blows in fresh air, choose the best answer.",vibrations,vortex|||friction|||vibrant colors|||waves|||Energy.|||kinetic energy|||absence of sound|||vibrations,qasc,7294
+"Process:
+
+- Water from the surface seeps below the soil
+- The water comes into contact with the rock below
+- The rock over the years carves through the rock
+- The space in the rock becomes larger and forms into a cave
+- As more rather rushes through the cave becomes a cavern.
+
+Perturbation hypothesis:
+suppose there was water and rock touching happens, how will it affect cavern is formed by water.
+
+Does the supposed perturbation have an effect (direct or indirect) on the process?",yes,yes|||no,wiqa,26672
+"The following document has been corrupted. Tell me what ""@placeholder"" is referring to.
+
+Document: By Helen Pow George Clooney has confessed to calling Las Vegas gambling mogul Steve Wynn an 'a**hole' and storming off at a recent dinner because the casino-owner insulted President Barack Obama. The verbal assault occurred two weeks ago when the two-time Oscar winner was in Vegas promoting his Casamigos tequila, and was invited to dine with Wynn and his wife, Andrea Hissom, at the fancy Botero restaurant inside the 72-year-old's Encore hotel. But when dinner was finished, the conversation turned to Obama's Affordable Care Act, of which Wynn is a vocal opponent. That's when sparks began to fly. Falling out: George Clooney, pictured right in January with Steve Wynn and his wife Andrea, allegedly said the F-word at a recent dinner with the couple
+@highlight
+The verbal assault between the actor and Steve Wynn occurred two weeks ago when Clooney was in Las Vegas promoting his Casamigos tequila
+@highlight
+He was invited to dine with Wynn and his wife, Andrea Hissom, at the fancy Botero restaurant inside the 72-year-old's Encore hotel
+@highlight
+But when dinner was finished, the conversation turned to Obama's Affordable Care Act, of which Wynn is a vocal opponent
+@highlight
+Clooney immediately took exception to how the billionaire chairman and CEO spoke of his 'longtime friend'
+@highlight
+He allegedly declared that he didn't have to listen to 'this f***ing stuff' before exiting to another bar
+@highlight
+In a statement, Clooney said: 'It had nothing to do with politics and everything to do with character' 
+Stories: Wynn, left, said Clooney had been downing tequila shots and was 'drunk' but @placeholder, right, claims Wynn insulted his 'longtime friend' President Obama",Clooney,Botero|||Encore hotel|||Steve Wynn|||Clooney|||Helen Pow|||Vegas|||Wynn|||Affordable Care Act|||George Clooney|||Casamigos|||Obama|||Andrea|||Barack Obama|||Encore|||Andrea Hissom|||Las Vegas,record,29477
+"Here's a problem to solve: In what way can bacteria be good for the human body?
+
+Among the 4 following options, which is the correct answer?
+
+- A: Bacteria help the body have strong bones.
+ 
+- B: Bacteria help maintain body temperature.
+ 
+- C: Bacteria help deliver oxygen to the cells.
+ 
+- D: Bacteria help break down food.",Bacteria help break down food.,Bacteria help the body have strong bones.|||Bacteria help maintain body temperature.|||Bacteria help deliver oxygen to the cells.|||Bacteria help break down food.,arc,242
+"Does the sentence
+The administration cited those links as primary justification for invading Iraq and toppling the regime of Saddam Hussein .
+paraphrase (that is, mean the same thing as) this sentence?
+The Bush administration cited that intelligence as primary justification for invading Iraq .",no,no|||yes,mrpc,742
+"Are the questions ""How can you relate the philosophy of non-violence of Leo Tolstoy to the Duterte's War against illegal drugs?"" and ""What is the difference between Spam and scam? Can anyone explain in own words?"" asking the same thing?",no,no|||yes,qqp,38847
+"Question: Rolling an earring across a closet floor is rough, but rolling it across a vanity top is smooth. This means the earring can roll a greater distance over the (A) closet floor (B) vanity top
+
+Do not use A and B to answer the question but instead, choose between ""closet floor"" and  ""vanity top"".",vanity top,closet floor|||vanity top,quarel,528
+"Do the following two sentences mean the same thing?
+In Canada , the booming dollar will be in focus again as it tries to stay above the 75 cent ( U.S. ) mark .
+In Canada , the surging dollar was in focus again as it struggled and just failed to stay above the 75 cent ( U.S. ) mark .",yes,no|||yes,mrpc,152
+"What label best describes this news article?
+Oil Flat After Drop, More Losses Seen Oil prices held steady on Tuesday after falling 2 percent a day earlier and were set for further falls in anticipation of higher US crude stocks despite concerns over disruptions to Iraqi oil flow.",Business,World politics|||Sports|||Business|||Science and technology,ag_news,15222
+"Consider this textual dialogue of 3 messages between 2 participants who took turns to talk: 
+
+""what is the rule read ninetyninety rule so""
+
+Given the context, what emotion can you detect in the message from the person who spoke last? happy, sad, angry, or something else?",something else,something else|||happy|||sad|||angry,emo,15840
+"An interesting venue - definitely mixed feelings re. this review - take it with a grain of salt if you want to visit, but otherwise, consider other options if you have them.\n\nJoan and I were visiting her sister in Phoenix, and, to be honest, we had no idea where to go and consulted Yelp.  This place came up first for breakfast in the rankings, and I'm not surprised.  I don't know much about Phoenix, but relative to my standards of NY/LA, there's not much there.  We were very happy to drive up to the farm, park, and sit down at a very nice table in a beautiful, popular, semi-rustic setting.  The weather was perfect and the atmosphere delightful.  \n\nService was also great to start, coffee was self-serve and tasty too  ...... if only the food had been good as well.  I hate to give two stars, but Joan's frittatta was straight-up cold and rubbery.  Doesn't get much worse than that - the waitstaff warned us that it was 'served at room temperature,' but seemed like that was all-too-subtle code for 'just don't order this - it's bad.'  Wish they had just said that.\n\nI had Eggs Benedict and it was so-so OK, but not good enough to balance it all out.  In the end, the waitstaff switched through shifts too and they messed up the bill, so that didn't help either.  But more than anything it was the mediocre food that earned the two stars here - I hope they improve it, as the setting was delightful, but until they do I can't recommend the place.  \n\n(As an alternative, though...what else, exactly, is in Phoenix?) My rating for this place is",2 stars,1 star|||2 stars|||3 stars|||4 stars|||5 stars,yelp,30344
+"I want to know whether the following two sentences mean the same thing.
+Southwest said it had already inspected its fleet of 385 aircraft and found no additional suspicious items .
+Southwest said it completed inspections of its entire fleet of 385 aircraft and found no additional items .
+Do they?",yes,no|||yes,mrpc,2075
+"Article: A new study has found no evidence that sunscreen, commonly used to reduce the risk of skin cancer, actually increases the risk.
+Researchers from the University of Iowa based their findings on a review of 18 earlier studies that looked at the association between sunscreen use and melanoma . They said that they found _ in studies that had reported associations between sunscreen use and higher risk of melanoma.
+Most health experts believe that by protecting the skin from the harmful effects of the sun, sunscreen helps prevent skin cancer, which is increasing in incidence faster than any other cancer in the United States.
+But questions have been raised about sunscreen and whether it may have the opposite effect, perhaps by allowing people to remain exposed to the sun longer without burning.
+The researchers said that among the problems with some earlier studies is that they often failed to take into account that those people most at risk for skin cancer--people with fair skin and freckles , for example--are more likely to use sunscreen. As a result, it may appear that sunscreen users get cancer more often.
+The studies, which generally relied on volunteers to recall their sunscreen use, were also unable to prove how well the products had been applied, said the new study.
+Question: We can learn from the passage that  _  .
+Yes or no, is the answer ""the number of skin cancer patients is increasing in America""?",No,Yes|||No,race,27242
+"This article: Monte Ne was entirely conceived and funded by William ""Coin"" Hope Harvey, a well-known businessman, politician, lecturer and author during the 1890s. Although Harvey was financially successful at silver mining in Colorado, Monte Ne seems to have been funded mostly by the sales of Harvey's writings which dealt with the subject of free silver. His most popular pamphlet, entitled Coin's Financial School, was published in 1893. Sales were buoyed by Harvey's involvement in the 1896 presidential campaign of William Jennings Bryan, and it sold two million copies. Though Bryan lost his bid for President, Harvey had become so important to the campaign that he was made chairman of the Democratic Ways & Means Committee to collect money for the 1900 campaign. However, as a result of an argument before the campaign, he resigned.After Bryan lost his bid for President, Harvey retreated to the Ozark mountains of Northwest Arkansas. In October 1900 he purchased 320 acres (130 ha) of land in Silver Springs (close to present day Rogers) from Reverend Bailey. From that time on he lived in Arkansas, and claimed that he preferred the state because it had no large cities or extremely wealthy people. Leaving his family behind in Chicago, Harvey moved into Reverend Bailey's run-down log house. Harvey's son Tom joined him shortly thereafter to help prepare the house for the rest of the family. They were joined later by Harvey's wife Anna and their children, Annette and Hal. The house burned down a few months after they took up residence, and all of the family's possessions, including Harvey's large library, were lost. Harvey carried no insurance on the house, and after its destruction Anna went back to Chicago, returning to Arkansas only a few times thereafter for brief visits.Harvey's land purchase in Silver Springs coincided with a desire by the local postmaster to change the name of the area, because it was often confused with Siloam Springs, Arkansas. Harvey chose the name Monte Ne, which supposedly combined the Spanish and Omaha... contains an answer for the question: What is the last name of the person whose most popular pamphlet was published in 1893?, what is it ?",Harvey,,quoref,2729
+"Here's a logic test: A steel car weighs more then an aluminum car. If both are racing, which will take longer to get up to top speed? (A) aluminum car (B) steel car
+
+Choose the answer between ""steel car"" and ""aluminum car"".",aluminum car,steel car|||aluminum car,quarel,505
+"Is there a negative or positive tone to this product review?
+===
+Title: Thats what you get when it is edited by the writers parents
+Review: I think the biggest problem with this book is that it was published and edited by his parents. I admit I thought it was pretty bad, in fact it was some of the worst fantasy I have ever read. When a real editer would have helped this very weak writing come up to snuff, instead his parents went along with him.
+Answer:",Negative,Negative|||Positive,amazon,37511
+"Guess a question that has the answer ""The Pyjama Game""",Which show featured Hernando's Hideaway and Hey There?,,triviaqa,1559
+Short general knowledge question: what round did manny pacquiao win in?,celebritynetworth.com,,webquestions,2953
+what starts off as a satisfying kids flck becomes increasingly implausible as it races through contrived plot points . What sentiment does the writer express for the movie?,negative,negative|||positive,rotten_tomatoes,8360
+"Process:
+
+- You breathe in
+- Diaphragm and other muscles expand to allow room for your lungs to fill
+- The air flows into the narrow bronchioles in the lungs
+- From the bronchioles to the alveoli
+- The oxygen enters into the bloodstream
+- Is switched with the carbon dioxide in the bloodstream
+- The carbon dioxide enters through the alveoli
+- Through the narrow bronchioles
+- Into the lungs
+- The carbon dioxide is exhaled out of the body.
+
+suppose More oxygen reaches the lungs happens, how will it affect LESS oxygen being brought to the body.
+
+Which of the following is the supposed perturbation?
+
+- directly impacting a step of the process
+- indirectly impacting a step of the process
+- not impacting any step of the process",directly impacting a step of the process,indirectly impacting a step of the process|||not impacting any step of the process,wiqa,16703
+"Sentence: Force tears from eyes.
+
+Choice 1: Place hair gel under eyeballs.
+
+Choice 2: Place vapor rub under eyeballs.
+
+What is the index of the correct choice for ending for the sentence?
+
+Answer:",2,1|||2,piqa,15673
+"Question: Miriam was playing lacrosse in the backyard. She flung the ball and it rolled slowly on the lawn, then quicker when going across the concrete deck floor. Which surface gave less resistance to the ball? (A) lawn (B) concrete deck
+
+Do not use A and B to answer the question but instead, choose between ""lawn"" and  ""concrete deck"".",concrete deck,lawn|||concrete deck,quarel,1683
+"We have the sentence: sunny sky become cloudy as the storm approaches; 
+Extract all the key concepts:","storm, approach, sky",,common_gen,19606
+"Question: Do we have too much technology?
+
+Additional details: Are we getting lost in all these gadgets that we think we can't live without? In all this information that is simply too much to take in at once? Forgetting that there is sunshine outside, and things to do away from all these things?  
+
+Best answer: Till technology take us over, lets enjoy 
+
+In this test, you need to classify the document into one of the following categories: Society & Culture, Science & Mathematics, Health, Education & Reference, Computers & Internet, Sports, Business & Finance, Entertainment & Music, Family & Relationships, Politics & Government.",Computers & Internet,Society & Culture|||Science & Mathematics|||Health|||Education & Reference|||Computers & Internet|||Sports|||Business & Finance|||Entertainment & Music|||Family & Relationships|||Politics & Government,yahoo_answers_topics,7205
+"When Patch finally found his way out of the seed-pod, Toro was gone, and there were rats all around him. Some hid beneath the huge black seed-pods, some scuttled in the shadows of the nearby mountain. Patch knew from their smells there were at least a dozen of them.
+There was another smell too, mixed with that of the rats. The very same unsavory squirrel-smell he had detected in Silver's abandoned drey.
+""What do you want?"" Patch asked, from his perch atop the mound of seed-pods. He was concerned but not yet frightened. Rats and squirrels were neither friends nor enemies. Squirrels were bigger and stronger, but rats were far more numerous. There were legends of long-ago wars between the two species, but no squirrel Patch knew had ever been attacked by rats. Squirrels lived aboveground, in the sun; rats frequented the night and the dark underworld. Of course, squirrels found rats disgusting and disagreeable -- but so did all other animals.
+An unusually large rat climbed up to the top of a seed-pod. It was almost as big as Patch himself. Rats usually avoided light, but this one stood unafraid beneath the sun, and demanded: ""Who are you?""
+""I am Patch son of Silver, of the Seeker clan, of the Treetops tribe, of the Center Kingdom,"" Patch said. ""Who are you that asks?""
+""I am Snout,"" the rat replied. ""Why are you here?""
+""I came to look for food.""
+""This is our food. These mountains are ours.""
+""Your food?"" Patch asked, bewildered. There was no ownership of food in the Center Kingdom, not until it had actually been eaten. ""That's ridiculous. It's food. It belongs to whoever finds it first.""
+""Then you belong to us,"" Snout hissed. ""Because we are the rats who will suck the marrow from your broken bones.""
+According to the above context, choose the correct option to answer the following question.
+Question: After the end of the text, Patch might:
+Options:
+
+A. Decide to live underground
+
+B. not enough information
+
+C. Start a war between rats and squirrels
+
+D. Discover the source of the unsavory smell",D,A|||B|||C|||D,quail,1680
+"Many people have long dreamed of being able to fly around as simply as riding a bicycle.  Yet the safety and strength of a flying bike was always a big problem.
+Over the past 10 years, developments in technology have moved the dream of personal flying vehicles closer to reality. Now, two groups of inventors say such vehicles may be available very soon.
+Grant Stapleton from Malloy Aeronautics says the Hoverbike, which is able to get in and out of small spaces very quickly, will be a truly personal flying vehicle.  ""It can be moved across continents very quickly because it can be folded and packed,"" he adds.
+Mr. Stapleton says safety was the company's main concern when developing the Hoverbike. He ays the designers solved the safety issue by using overlapping rotors     to power the vehicle.  The company is testing both a one-third size model and a full-size prototype     of the Hoverbike.
+Inventors say their Hoverbike will most likely be used first by the police and emergency rescue teams.
+In New Zealand,  the Martin Aircraft Company is also testing a full-size prototype of its personal flying bike, called Jetpack. It can fly for more than 30 minutes, up t0 1,000 meters high and reach a speed of 74 kilometers per hour.
+Peter Coker is the CEO of Martin Aircraft Company.  He said Jetpack ""is built around safety from the start, "" In his words, ""reliability is the most important part of it.  We have safety built into the actual structure itself, very similar to a Formula One racing car. ""
+Jetpack uses a gasoline-powered engine that produces two powerful jet streams.  Mr. Coker says it also has a parachute   that can be used should there be an emergency.
+""It opens at a very low altitude and actually saves both the aircraft and the pilot in an emergency,"" he adds.
+What's the main concern the two companies share?
+A) Safety.
+B) Speed.
+C) Size.
+D) Design.",A,A|||B|||C|||D,race,38344
+"Is ""Yes"" a correct answer to the following question?
+Question: Was De la democratie en Amerique only written in French in one volume?
+
+Rely on the following text: Alexis de Tocqueville and Gustave de Beaumont in America: Their Friendship and Their Travels edited by Oliver Zunz, translated by Arthur Goldhammer (University of Virginia Press; 2011) 698 pages; Includes previously unpublished letters, essays, and other writings Du systeme penitentaire aux Etats-Unis et de son application en France (1833) - On the Penitentiary System in the United States and Its Application to France, with Gustave de Beaumont. De la democratie en Amerique (1835/1840) - Democracy in America. It was published in two volumes, the first in 1835, the second in 1840. English language versions: Tocqueville, Democracy in America, trans. and eds., Harvey C. Mansfield and Delba Winthrop, University of Chicago Press, 2000; Tocqueville, Democracy in America (Arthur Goldhammer, trans.; Olivier Zunz, ed.) (The Library of America, 2004) ISBN 978-1-931082-54-9. L'Ancien Regime et la Revolution (1856) - The Old Regime and the Revolution. It is Tocqueville's second most famous work. Recollections (1893) - This work was a private journal of the Revolution of 1848. He never intended to publish this during his lifetime; it was published by his wife and his friend Gustave de Beaumont after his death. Journey to America (1831-1832) - Alexis de Tocqueville's travel diary of his visit to America; translated into English by George Lawrence, edited by J-P Mayer, Yale University Press, 1960; based on vol. V, 1 of the OEuvres Completes of Tocqueville. L'Etat social et politique de la France avant et depuis 1789 - Alexis de Tocqueville Memoir On Pauperism: Does public charity produce an idle and dependant class of society? (1835) originally published by Ivan R. Dee. Inspired by a trip to England. One of Tocqueville's more obscure works. Journeys to England and Ireland 1835",No,No|||Yes,multirc,1074
+"Here is a review left by a customer on a product. Would you say he was satisfied or dissatisfied?
+Title: Savage and brutal
+Review: This is a great, great cd. As the first Mayhem release with the current lineup, they came right out of the box with a masterpiece of unanticipated power. Each track is just monstrous in every way; and the production is some of the very best you'll likely ever hear on a black metal release. Note that this contains the first part of their epic full- length release ""Grand Declaration Of War"", so be sure to buy both. You won't be disappointed if raw, seriously dangerous metal is what you're looking for.",satisfied,dissatisfied|||satisfied,amazon,5568
+"Sentence: shoes
+
+Choice 1: made on baking sheet 
+
+Choice 2: dried on baking sheet 
+
+What is the index of the correct choice for ending for the sentence?
+
+Answer:",2,1|||2,piqa,12872
+i think it is easy to feel afraid when one considers the nuclear weapons the weather the protests the riots the police reactions the governments responses or the laws being passed. What is the emotion expressed in this message?,fear,sadness|||joy|||love|||anger|||fear|||surprise,emotion,5566
+"The exercise is to decide whether the question accepts the proposed suggestion as a correct answer. If yes, write ""True"", otherwise write ""False"".
+Question: what is a 10"" Vinyl Release
+Suggestion: By the late 1980s, digital media had gained a larger market share, and the vinyl record left the mainstream in 1991.",False,False|||True,wiki_qa,10113
+"Use information from the paragraph to answer the question.
+
+Paragraph :
+
+If we have two materials with the same volume, the material with a higher mass will be more dense.
+
+Question:
+
+
+Jake pours syrup into one cup, then pours water into another, both in equal amounts. Jack can know that the syrup is the less dense of the fluids because it has more mass or less mass?",less mass,more mass|||less mass,quartz,2190
+"Person A says something, Person B responds, and then Person A says something. Here's their conversation: 
+
+""why 'cause i don't know you  don't you love me""
+
+Given the context and the last message, how would you best describe Person A's emotion - happy, sad, angry, or something else?",something else,something else|||happy|||sad|||angry,emo,21928
+"If reproduction is the process by which organisms give rise to their young, then what is the process by which organisms give rise to their young?
+
+Answer choices:
+- Summer
+ - cell division
+ - autumn
+ - Plants growth
+ - peachleaf willow
+ - ejaculation
+ - reproduction
+ - mating rituals",reproduction,Summer|||cell division|||autumn|||Plants growth|||peachleaf willow|||ejaculation|||reproduction|||mating rituals,qasc,2277
+"We know that:
+
+There was a big snowstorm.,
+
+and:
+
+The next day they were sad to have to go back to school. 
+
+Which one is more likely?
+
+The first option: 
+
+Overnight more snow had fallen, 
+
+or the second option:
+
+Overnight the snow had melted?",Overnight the snow had melted,Overnight more snow had fallen|||Overnight the snow had melted,art,48273
+"Can I replace the sentence
+He is temporarily serving as Chechnya 's acting president while his boss , Akhmad Kadyrov , is on the campaign trail .
+with the sentence
+He is temporarily serving as Chechnya 's acting president while his boss , Akhmad Kadyrov , is running in the region 's Oct. 5 presidential election .
+and have it mean the same thing?",yes,no|||yes,mrpc,453
+"Where does a blade help you to move from one place to another?
+Choose the most suitable option to answer the above question.
+Options:
+- rollerblade
+- helicopter
+- lawn mower
+- scissors
+- knife",helicopter,rollerblade|||helicopter|||lawn mower|||scissors|||knife,cos_e,8290
+"I finally made it to Nello's and am so happy I did.  Laura A. called and said she was craving pizza and since I'm the pizza addict anytime this rare occasion happens I am down in a heartbeat to go.  So since she lives in Mesa we decided to check out Nello's as the reviews were all top notch.  \n\nUpon arrival we were greated and we said we were ordering a to go order so we were shown the to go window.  Brian greeted us there after giving us a brief minute to scope out the wonderful menu.  We decided to get two 10\"" pies to get a good trial run at this place.  He was very nice and gave us some ideas and we went with The Murphy which has strips of bacon and onions on it and I got a custom pie with sun dried tomato's, gouda cheese, and green peppers.  \n\nWhen we got home we devoured both pies the sauce was great and we had one deep dish and one thin crust.  I preferred the deep dish but they both were great.  \n\nI will for sure be back for more pizza and to try their sandwich's as they sounded very good as well.  The service was great everyone was very nice it felt like a great neighborhood restaurant.  I think that feeling at a lot of restaurants has been lost today so it was very nice.  \n\n4.5/5 My rating for this place is",4 stars,1 star|||2 stars|||3 stars|||4 stars|||5 stars,yelp,36035
+"Stef is a young girl interested in the geography of the world. For her birthday, she got two different representations of the Earth. Her grandparents gave her a map that uses the Mercator projection and her uncle gave her a globe. She is comparing how certain countries look differently on the two gifts and trying to figure out why that is. She is specifically looking at Norway, a country near the North Pole, and Mexico, a country close to the equator.
+
+Given the paragraph above, please answer correctly the following question: 
+
+On which representation of Earth will Norway look bigger?",map,,ropes,1069
+"- image is walter kistler.jpg
+
+
+
+- residence is united states
+
+
+
+- fields is physicist
+
+
+
+- alma mater is university of geneva , eth zurich
+
+
+
+- known for is multiple inventions , kistler group
+
+
+
+- workplaces is swiss locomotive and machine works , bell aircraft
+
+
+
+
+
+- nationality is swiss/usa
+
+
+
+- birth place is biel , switzerland
+
+
+
+- image size is 140px
+
+
+
+- birth date is 1918
+
+
+
+
+
+- awards is albert -rrb- f. sperry award -lrb- issued by the isa
+
+
+
+Given the details above, guess who could this information be about.",walter kistler,,wiki_bio,41035
+Give me the correct facts to answer this: what college is in greeley colorado?,Aims Community College,,webquestions,3251
+"You are given a new situation: James spent a lot of time indoors, and didn't get out much like Rob, his friend, who loved outdoors stuff.
+
+and a hint : Recall that air pollution is due to chemical substances and particles released into the air mainly by human actions. When most people think of air pollution, they think of the pollution outdoors. But it is just as easy to have indoor air pollution. Your home or school classroom probably doesn't get much fresh air. Sealing up your home reduces heating and cooling costs. But this also causes air pollution to stay trapped indoors. And people today usually spend a majority of their time indoors. So exposure to indoor air pollution can become a significant health risk.
+
+Please answer this question : Which friend breathes more fresh air on a daily basis?",Rob,,ropes,3257
+"I want to know whether the following two sentences mean the same thing.
+Witnesses from Malaysia will testify Thursday in the treason trial of cleric Abu Bakar Bashir , said to be the leader of terrorist group Jemaah Islamiyah .
+The secrecy surrounding terrorist group Jemaah Islamiyah was again smashed when witnesses from Malaysia testified in the treason trial of Abu Bakar Bashir .
+Do they?",no,no|||yes,mrpc,1766
+"Please answer the following question about this movie plot. If it's un-answerable, please output ""No answer"".
+
+Question: Who is Cain's girlfriend?
+Movie plot title: RoboCop 2
+Movie plot: The story opens with a Media Break news report which shows that living conditions in Detroit have not improved since the introduction of RoboCop, a cybernetic police officer constructed from the body of Officer Alex Murphy. RoboCop has brought success to police work in Detroit, however, the police force are on strike because their parent company, Omni Consumer Products (OCP) have cut their salaries and benefits.At the same time, a new highly addictive designer drug, Nuke, has exploded in use on the streets. The drug is supplied to Detroit by a mysterious cult leader, Cain, who uses brutal terror tactics to his advantage; one tactic includes the assassination of the Surgeon General during a conference where he warns of the dangers of Nuke.In the meantime, an ambitious psychologist, Juliette Faxx, has been working on a project that could potentially replace RoboCop with an improved model. Faxx' attempts so far have failed on all levels because the deceased men who are transformed into cyborgs all destroy themselves due to the psychological trauma involved. Faxx suggests that they look for candidates who might find the transformation desirable. Her search begins with hardened criminals with deep-seated psychological conditions.Additionally, the mayor of Detroit, Kuzak, finds himself in a precarious situation; the city financial deficit has grown to an obscene amount and OCP is now threatening to buy Detroit out like they would any other company.While dispatching a small group of criminals who rob a gun store, RoboCop discovers the criminals are Nuke addicts, and he interrogates the gang's only survivor for the location where the drug was bought. Murphy goes there and breaks into building, finding a Nuke production lab. Among the workers, who are mostly illegal immigrants, Murphy sees Cain himself. Though Murphy and his partner, Anne Lewis, are able to take out several of the lab's guards, Cain is able to escape. Cain's junior operative, a teenager named Hob, takes a pot shot at Murphy, knowing that the cyborg's...",Angie,,duorc,44240
+"WASHINGTON — Democratic presidential front-runner Hillary Clinton called Republican rival Donald Trump dangerous and unqualified for the presidency in a blistering foreign policy speech Thursday in San Diego, California.
+""He is temperamentally unfit to hold an office that requires knowledge, stability and immense responsibility,"" Clinton said. ""This is not someone who should ever have the nuclear codes.""
+Trump “doesn’t understand America, or the world,” she said. ""It’s not hard to imagine Donald Trump leading us into a war just because somebody got under his very thin skin.""
+In anticipation of the address, Trump attacked his Democratic opponent on Twitter. “Crooked Hillary Clinton, who I would love to call Lyin’ Hillary, is getting ready to totally misrepresent my foreign policy positions,” he tweeted.
+Clinton emphasized her own experience as first lady, senator and secretary of state, saying she would provide the steady diplomacy the country needs.
+“National security is the foundation of how we make sure our interests are pursued in the world,” said Louis Goodman, Emeritus Dean of International Relations at American University in an interview with VOA.
+With polls show terrorism is a major concern among Americans, Clinton targeted Trump's positions on the issue.
+Trump, the presumptive Republican presidential nominee, has promised to temporarily block Muslims from crossing U.S. borders.
+""The struggle against radical Islam also takes place in our homeland. There are scores of recent migrants inside our borders charged with terrorism. For every case known to the public, there are dozens more. We must stop importing extremism through senseless immigration policies,"" Trump said in a foreign policy speech in April.
+Trump's other anti-terrorism proposals include a pledge to torture and murder the families of suspected terrorists and target Islamic State.
+""I have a simple message for them,"" Trump said. ""Their days are numbered. I won't tell them where and I won't tell them how. But they will be gone. And soon.""
+But...
+What is a large topic of consternation among American?
+Pick the correct answer from the following options:
+- recent immigration
+- not enough information
+- policy speeches
+- terrorism",terrorism,recent immigration|||not enough information|||policy speeches|||terrorism,quail,9651
+"Process:
+
+- A butterfly lays an egg
+- A larvae matures inside of the egg
+- The caterpillar hatches from the egg
+- The caterpillar eats and grows
+- The caterpillar spins a coccoon around itself and forms into a pupa
+- The butterfly forms inside of the coccoon
+- The mature butterfly emerges from the coccoon
+- The butterfly mates
+- The female butterfly lays eggs.
+
+suppose less clean environment happens, how will it affect less butterflies around.
+
+Which of the following is the supposed perturbation?
+
+- directly impacting a step of the process
+- indirectly impacting a step of the process
+- not impacting any step of the process",indirectly impacting a step of the process,indirectly impacting a step of the process|||not impacting any step of the process,wiqa,13331
+What emotion does the following message express? i could feel him before i saw him and he smelt delicious,joy,sadness|||joy|||love|||anger|||fear|||surprise,emotion,14157
+"Pick the most correct option to answer the following question.
+
+What particle always has a mass of one atomic mass unit (amu) and no charge?
+
+Options:
+
+- A: a neutron
+
+- B: a proton
+
+- C: an electron
+
+- D: an atom",a neutron,a neutron|||a proton|||an electron|||an atom,arc,754
+"Background: Wind dispersal of seeds, or anemochory, is one of the more primitive means of dispersal. Wind dispersal can take on one of two primary forms: seeds can float on the breeze or alternatively, they can flutter to the ground. The classic examples of these dispersal mechanisms include dandelions (Taraxacum spp., Asteraceae), which have a feathery pappus attached to their seeds and can be dispersed long distances, and maples (Acer (genus) spp., Sapindaceae), which have winged seeds and flutter to the ground. An important constraint on wind dispersal is the need for abundant seed production to maximize the likelihood of a seed landing in a site suitable for germination. There are also strong evolutionary constraints on this dispersal mechanism. For instance, species in the Asteraceae on islands tended to have reduced dispersal capabilities (i.e., larger seed mass and smaller pappus) relative to the same species on the mainland. Reliance upon wind dispersal is common among many weedy or ruderal species. Unusual mechanisms of wind dispersal include tumbleweeds. A related process to anemochory is anemophily, which is the process where pollen is distributed by wind. Large families of plants are pollinated in this manner, which is favored when individuals of the dominant plant species are spaced closely together.Wind also limits tree growth. On coasts and isolated mountains, the tree line is often much lower than in corresponding altitudes inland and in larger, more complex mountain systems, because strong winds reduce tree growth. High winds scour away thin soils through erosion, as well as damage limbs and twigs. When high winds knock down or uproot trees, the process is known as windthrow. This is most likely on windward slopes of mountains, with severe cases generally occurring to tree stands that are 75 years or older. Plant varieties near the coast, such as the Sitka spruce and sea grape, are pruned back by wind and salt spray near the coastline.Wind can also cause plants damage through sand abrasion. Strong winds...
+
+Paragraph: John was studying plant varieties in different regions. He fist visited the Pacific Northwest. He found that the wind was constantly very strong there. He marked it as case A. Then he studied the plants in the Midwest. He found that on average the wind speed was very light there. He marked it as case B.
+
+Given the paragraph above, please answer correctly the following question: Would the tree line be lower or higher in case B than in case A?",higher,,ropes,8854
+"Pushing a little kid on a swing is easy because they are light. It will require more strength to push when
+
+Choices:
+- when he loses weight
+- when he eats chicken
+- seventy four plus five
+- he's older and heavier",he's older and heavier,when he loses weight|||when he eats chicken|||seventy four plus five|||he's older and heavier,openbookqa,4701
+"Read the following conversation and answer the question.
+
+M: You must be pretty excited about your trip to Europe, Dorothy. When are you leaving?
+
+W: In just two weeks, and I am excited. I've been looking forward to this training program for a long time. But there are still a few things I need to do before I go.
+
+M: Like what?
+
+W: Like renewing my passport and figuring out what to do with my apartment while I'm gone.
+
+M: You are not going to give it up, are you?
+
+W: No way! I'll never find another apartment like it around here. But I don't like the idea of paying three months for an empty apartment, either. So, I'm looking for someone to take it while I'm away.
+
+M: Um, let me think. Oh, I know just a person. An old colleague of mine, Jim Thomas. He is coming here to do some research this summer, from June to August.
+
+W: Well, that's exactly when I'll be away!
+
+M: Tell you what: I'll be calling Jim late this week anyway, so I'll mention it to him.
+
+W: Well, thanks, Bill.
+
+Question: How long will Dorothy stay in Europe? 
+
+- A few days.
+
+- Two weeks.
+
+- Three months.",Three months.,A few days.|||Two weeks.|||Three months.,dream,1536
+"Read the bio below and try to give details on jason bohn
+'s: 
+ 
+- usopen 
+  
+- college 
+  
+- nwidewins 
+  
+- name 
+  
+- pgawins 
+  
+- pga 
+  
+- height 
+  
+- birth place 
+  
+- yearpro 
+  
+- otherwins 
+  
+- weight 
+  
+- residence 
+  
+- fullname 
+  
+- prowins 
+  
+- tour 
+  
+- birth date 
+    
+- masters 
+  
+- open 
+ 
+
+Bio: jason duehn bohn -lrb- born april 24 , 1973 -rrb- is an american professional golfer who currently plays on the pga tour .","- usopen is 71st : 2012
+
+
+
+- college is university of alabama
+
+
+
+- nwidewins is 1
+
+
+
+- name is jason bohn
+
+
+
+- pgawins is 2
+
+
+
+- pga is t34 : 2005
+
+
+
+- height is 6 0
+
+
+
+- birth place is lewisburg , pennsylvania
+
+
+
+- yearpro is 1992
+
+
+
+- otherwins is 3
+
+
+
+- weight is 180 lb kg st on
+
+
+
+- residence is acworth , georgia
+
+
+
+- fullname is jason duehn bohn
+
+
+
+- prowins is 6
+
+
+
+- tour is pga tour
+
+
+
+- birth date is 24 april 1973
+
+
+
+
+
+- masters is t39 : 2006
+
+
+
+- open is 71st : 2012",,wiki_bio,39741
+"the first information and documentation center on the former east german secret police , the stasi , opened its doors in this eastern town saturday .
+
+TL;DR:",germany opens first stasi documentation center,,gigaword,7675
+"Question 1: What is the best strategy and book list of zoology optional for Indian forest services.?
+Question 2: Could anybody discuss a detailed strategy for zoology optional UPSC?
+
+Do these two questions convey the same meaning? Yes or no?",No,No|||Yes,qqp,17201
+"Los Angeles (CNN) -- AEG Live asked Michael Jackson's estate to repay the concert promoter $300,000 for Dr. Conrad Murray's fee three weeks after Jackson's death, court testimony revealed Monday. The revelation contradicts AEG Live's defense that it did not hire or pay the doctor convicted in Jackson's death. ""To me, it's a mistake,"" AEG Live Senor Vice President and General Counsel Shawn Trell said when confronted with a letter sent to Jackson's estate. Trell, testifying Monday in the Michael Jackson wrongful death trial, also said his company's chief financial officer made another major error by classifying Dr. Murray's fees as ""production costs"" and not ""advances"" in all of the budgets for Jackson's ""This It It"" tour.
+@highlight
+NEW: AEG Live exec says listing doctor's fees as ""production costs"" was a mistake
+@highlight
+NEW: AEG Live asked Jackson estate to repay $300,000 for the doctor
+@highlight
+AEG Live's controller confirms company budgeted $1.5 million for Michael Jackson's doctor
+@highlight
+An AEG expert testifies it should have been ""a red flag"" when Murray asked for $5 million
+The Jackson lawyers argue that e-mails, budget documents and the fact that the doctor was already working for two months showed a binding agreement between AEG and @placeholder.
+
+Pick one option, ""@placeholder"" refers to:
+- Shawn Trell
+- Trell
+- CNN
+- AEG
+- AEG Live
+- Murray
+- Jackson
+- Michael Jackson
+- AEG Live Senor
+- Los Angeles
+- Conrad Murray",Murray,Shawn Trell|||Trell|||CNN|||AEG|||AEG Live|||Murray|||Jackson|||Michael Jackson|||AEG Live Senor|||Los Angeles|||Conrad Murray,record,40737
+"Is this product review positive?
+Title: Pampers Baby Dry
+Review: We tried Luvs, Huggies, and Pampers Swaddlers and we consistently had leaks during nap time as our little guy is a champion when it comes to making water. These baby dry diapers have cut down the leaks from several a day to maybe one every 3 or 4 days. Needless to say, we like them a lot!
+Answer:",Yes,No|||Yes,amazon,10782
+"She returned his greeting , and as he drew near she asked him whence he came and where he was going . ` Alas ! ' sighed the youth , ' I am very sorrowful . I had six brothers , who went away to find brides for themselves and one for me ; but they have never come home , so now I am going to look for them . ' ` Oh , good friend , ' said the girl , ` you need go no farther . Come , sit down , eat and drink , and afterwards I 'll tell you all about it . ' She gave him food , and when he had finished his meal she told him how his brothers had come to the town where she lived with her sisters , how they had each chosen a bride , and , taking herself with them , had started for home . She wept as she told how the others were turned to stone , and how she was kept as the old man 's bride . She left out nothing , even telling him the story of her husband 's heart . When the young man heard this he said : ' I shall go in search of the bird . It may be that God will help me to find and catch it . ' ` Yes , do go , ' she said ; ` it will be a good deed , for then you can set your brothers and my sisters free . ' Then she hid the young man , for it was now late , and her husband would soon be home . Next morning , when the old man had gone out , she prepared a supply of provisions for her guest , and sent him off on his travels , wishing him good luck and success . He walked on and on till he thought it must be time for breakfast ; so he opened his knapsack , and was delighted to find such a store of good things . ` What a feast ! ' he exclaimed ; ` will anyone come and share it ? ' ` Moo-oo , ' sounded close behind him , and looking round he saw a great red ox , which said , ' I have much pleasure in accepting your kind invitation . ' ` I 'm delighted to see you . Pray help yourself . All I have is at your service , ' said the hospitable XXXXX .
+
+Replace XXXXX with the correct option from:
+God, bird, feast, food, heart, morning, others, round, sisters, youth",youth,God|||bird|||feast|||food|||heart|||morning|||others|||round|||sisters|||youth,cbt,26361
+"Read the following conversation and answer the question.
+
+W: I have no idea how to finish the timetable.
+
+M: You don't have to be very creative. It's very standard and more or less the same every year. For example, the sports day begins with throwing events. All jumping events take place before lunch.
+
+W: Why?
+
+M: That's because the school doesn't want the athletes to jump after eating. The jumping events take place after the throwing events. And the long distance race takes place before the jumping events.
+
+W: And after lunch?
+
+M: Actually, the school doesn't want any events to take place at that time. But they can practise for the next event.
+
+W: Do you mean the 100-meter race?
+
+M: Yes. It demands a lot of energy and seems to be the most exciting event, so it takes place at the end of the day, which is around 5:00 p. m.
+
+Question: What does the man say about the 100-meter race? 
+
+- It is more exciting than any other event.
+
+- It takes place at 6:00 p.m.
+
+- It demands less energy.",It is more exciting than any other event.,It is more exciting than any other event.|||It takes place at 6:00 p.m.|||It demands less energy.,dream,3912
+"Are the following two sentences ""equivalent"" or ""not equivalent""?
+He admits he occasionally lived the life of a playboy : smoking pot , chasing women and living fast and loose .
+Schwarzenegger has admitted to occasionally living the life of a playboy : smoking pot , chasing women and living fast and loose .",equivalent,not equivalent|||equivalent,mrpc,2287
+"The following article contains an answer for the question: What was the first name of the person who sounded transcendent? , can you please find it? 
+
+Audioslave's history dates back to October 18, 2000, when Rage Against the Machine's lead vocalist Zack de la Rocha announced he was leaving the band, citing a breakdown in its ""decision-making process"". Rage Against the Machine broke up as a result of de la Rocha's departure, but the remaining three members of the band—Tim Commerford, Tom Morello, and Brad Wilk—decided to stay together and announced plans to continue with a new vocalist. Several vocalists jammed with the three, including B-Real of Cypress Hill, but they did not want another rapper or anybody who sounded like de la Rocha. Contrary to popular belief, Layne Staley of Alice in Chains neither auditioned nor was asked to join the new project. Tom Morello denied this claim on his Twitter account in 2015. Music producer and friend Rick Rubin suggested that they play with Chris Cornell, the ex-frontman of Soundgarden. Rubin also persuaded the three of them to go into group therapy with performance coach Phil Towle after the breakup. Rubin was confident that with the right new voice, Rage Against the Machine had the potential to become a better band; he believed ""it could turn into a Yardbirds-into-Led Zeppelin scenario."" Commerford later credited Rubin for being the catalyst that brought Audioslave together. He called him ""the angel at the crossroads"" because ""if it wasn't for him, I wouldn't be here today.""The chemistry between Cornell and the other three was immediately apparent; as Morello described: ""He stepped to the microphone and sang the song and I couldn't believe it. It didn't just sound good. It didn't sound great. It sounded transcendent. And...when there is an irreplaceable chemistry from the first moment, you can't deny it."" The quartet wrote 21 songs during 19 days of rehearsal, and began working in the studio in late May 2001 with Rubin as producer, while sorting out the label and management issues.",Chris,,quoref,9506
+"Read the following conversation and answer the question.
+
+W: I find it really hard to express myself in class. I have lots of ideas, but they never seem to come out of my mouth.
+
+M: Let me give you a little advice. You know what the topics are, so prepare what you would like to say ahead of time.
+
+W: I often do like that, but I'm worried about the responses from other people.
+
+M: You have to be realistic. Not everyone is going to agree with you, but people will respect your opinion and they will respect the fact that you have contributed something to the discussion.
+
+W: I'm worried that what I say will not make sense.
+
+M: We could chat about the topic before class. I could check that what you want to say is logical and it would also give you a chance to practice speaking.
+
+W: That's a good idea. What should I do if I have two minds about a topic?
+
+M: That's easy. Express possibilities. People will think that you are pretty smart to look at the topic from more than one angle.
+
+W: I didn't realize that speaking in class could be so easy.
+
+M: The most difficult thing is to predict what other people will say. They will reply to your statements. but you can't be sure how.
+
+Question: What does the man advise the woman to do? 
+
+- Prepare what she would like to say in advance.
+
+- Be realistic before preparation for top.
+
+- Find a chance to practice speaking frequently.",Prepare what she would like to say in advance.,Prepare what she would like to say in advance.|||Be realistic before preparation for top.|||Find a chance to practice speaking frequently.,dream,5098
+"I'm taking a test and have to guess the right answer to the question after the article.
+Article: When you hear about a man saving his dog from a sinking ship, it's hard not to be moved by the tale of an animal lover's bravery.But the story becomes slightly less heroic when you learn that the man saved his dog before his own wife.
+But that's apparently what happened when Graham Annie and his wife, Cheryl, found their Yacht  sinking after it hit a rock, while on a voyage from East London to Madagascar. 
+National Sea Rescue Institute North London station commander Geoff McGregor said all three were wearing life jackets.The 9-year-old Jack Russell terrier named Rosie was wearing a tailored life jacket equipped with a light.
+""As the incident happened Graham sent a radio distress call for help and activated the EPIRB (a GPS beacon) but they were immediately forced to abandon ship,"" McGregor said in an interview, ""He first swam Rosie to the shore safely before returning for his wife, whose safety line had caught on the steering gear McGregor added.
+The couple and their dog all made it out free of injury.Graham, a long-time volunteer with the National Sea Rescue Institute, said, ""it was humbling to have the shoe on the other foot and need to be rescued.""     
+Some details have yet to come out.So, it's likely that Cheryl was in a position of   safety and Rosie might have been in a more dangerous position had she been left on the boat. The couple did not want to speak with the media about their rescue.So, for now, it's left to readers to find out Graham's priorities during their troubled time.
+Question: What can we learn from the passage?
+Options: A: Graham was very wise to save the dog first.
+B: Graham was not experienced in rescue work.
+C: Jack Russell terrier is a kind of dog.
+D: Graham loves his dog better than his wife.",C,A|||B|||C|||D,race,28102
+"White mountains are often visited by tourists because of the many beautiful caves, stalactites, stalagmites and karst phenomena. Dome mountains are interesting to tourists because they are very massive, of volcanic origin and excellent for climbing.
+
+Given the paragraph above, please answer correctly the following question: 
+
+Which mountain has a lower percentage of limestone in its composition?
+
+Hint: About 10% of sedimentary rocks are limestones. The solubility of limestone in water and weak acid solutions leads to karst landscapes, in which water erodes the limestone over thousands to millions of years. Most cave systems are through limestone bedrock.",Dome,,ropes,6983
+"Background: Chemists look at the world in two ways, often simultaneously. The two worlds of the chemist are the macroscopic world and the microscopic world. Macroscopic refers to substances and objects that can be seen, touched, and measured directly. Microscopic refers to the small particles that make up all matter. Chemists must observe matter and do experiments macroscopically and then make generalizations and propose explanations that are microscopic in nature. For example, anyone can observe the physical change in appearance that occurs as an iron object such as a tractor that is left out in the elements gradually turns to rust. However, a chemist looks at the rusting tractor and thinks about what is going on with the individual atoms that make up the iron and how they are changing as a result of exposure to oxygen in the air and water from rain. Throughout your study of chemistry, you will often switch back and forth between the macroscopic and microscopic worlds.
+
+Paragraph: Two cousins went to college to get a B.S. Greg studied Biology, and his younger cousin Dawn decided to study chemistry. They both graduated Summa Cum Laudae.
+
+Given the paragraph above, please answer correctly the following question: Which cousin didn't have to make generalizations and propose explanations that are microscopic in nature?",Greg,,ropes,7600
+"I received the questions ""How can I find a list of the 500 most popular Facebook groups in the USA and Europe?"" and ""Where can I find a list of closed groups on Facebook?"". Are they duplicates?",no,no|||yes,qqp,34257
+"So the guards tied her hands and feet with thick ropes , for fear she might run away , and brought her to the King , who was waiting with his son . When he saw her he was very much astonished at her beauty , which would have made anyone less hard-hearted sorry for her . But the wicked King only laughed and mocked at her , and cried : ` Well , little fright , little toad ! why do n't you love my son , who is far too handsome and too good for you ? Make haste and begin to love him this instant , or you shall be tarred and feathered . ' Then the poor little Princess , shaking with terror , went down on her knees , crying : ` Oh , do n't tar and feather me , please ! It would be so uncomfortable . Let me have two or three days to make up my mind , and then you shall do as you like with me . ' The wicked Prince would have liked very much to see her tarred and feathered , but the King ordered that she should be shut up in a dark dungeon . It was just at this moment that the Queen and the Fairy arrived in the flying chariot , and the Queen was dreadfully distressed at the turn affairs had taken , and said miserably that she was destined to be unfortunate all her days . But the Fairy bade her take courage . ` I 'll pay them out yet , ' said she , nodding her head with an air of great determination . That very same night , as soon as the wicked King had gone to bed , the Fairy changed herself into the little mouse , and creeping up on to his pillow nibbled his ear , so that he squealed out quite loudly and turned over on his other side ; but that was no good , for the little mouse only set to work and gnawed away at the second ear until it hurt more than the first one . Then the King cried ` Murder ! ' and ` Thieves ! ' and all his guards ran to see what was the matter , but they could find nothing and nobody , for the little mouse had run off to the Prince 's room and was serving him in exactly the same way . All night long she ran from one to the other , until at last , driven quite frantic by terror and want of...
+
+Which of the following options replaces XXXXX in ""Then the good Fairy ran to tell the Queen , and they went together to the black XXXXX where Delicia was imprisoned .""?
+chariot, dungeon, haste, head, knees, room, sleep, tar, terror, toad",dungeon,chariot|||dungeon|||haste|||head|||knees|||room|||sleep|||tar|||terror|||toad,cbt,30630
+"Generate a question from the following passage that has the answer, the Bolsheviks
+Passage : The Bolshevik forces reached the Lithuanian territory on July 7, 1920, and continued to push the Polish troops. The Lithuanian Army moved to secure territories abandoned by the retreating Polish forces. They took Turmantas on July 7, Tauragnai and Alanta on July 9, Širvintos and Musninkai on July 10, Kernavė, Molėtai, and Giedraičiai on July 11, Maišiagala and Pabradė on July 13. On July 13 the Polish command decided to transfer Vilnius to the Lithuanians in accordance with the resolution of the Spa Conference. Lithuanians moved in, but their trains were stopped by Polish soldiers near Kazimieriškės. This delay meant that the Bolsheviks were the first to enter Vilnius on July 14. By the time first Lithuanian troops entered the city on July 15, it was already secured by the Soviets. Poland sought to have Russians in the city as it would create much less complications when Polish Army counterattacked. Despite the Peace Treaty, the Soviets did not intend to transfer the city to the Lithuanians. Indeed, there were indications that the Soviets planned a coup against the Lithuanian government in hopes to re-establish the Lithuanian SSR. Despite the setback in Vilnius, the Lithuanians continued to secure territories in the Suwałki Region. They took Druskininkai on July 17, Vištytis, Punsk, Giby, and Sejny on July 19, Suwałki on July 29, Augustów on August 8. The Polish units, afraid of being surrounded and cut off from the main Polish forces, retreated towards Łomża. The Lithuanian authorities started to organize themselves in the regained areas.
+Question :",Who entered Vilnius first?,,drop,23472
+Title: degussa group reports profit jump for latest financial year,"german group degussa chalked up a pretax profit of ### million marks for financial ####\/## -lrb- ending in september -rrb- , a ## percent jump compared with the previous financial year , the group announced in frankfurt on tuesday .",,gigaword,22727
+"It’s October, which means it’s that time of the year again: flu vaccination time!
+Back when I worked in a primary care clinic, this is when we made a big push to offer the seasonal flu shot to all of our patients. (And we got ourselves immunized, as well.)
+Not all of our patients agreed. Many older adults are skeptical of the need to get a yearly vaccination against influenza. They aren’t sure it will help. Or they think that the vaccination will actually give them a mild case of the flu. Or they just don’t like needles.
+Or maybe they aren’t sure which type of seasonal flu shot to get: the regular one or one of the newer “stronger” versions, designed for older adults?
+I’m never surprised when people bring up these questions. Vaccination for seasonal influenza can indeed be a confusing topic.
+But it’s certainly important to consider. Depending on the year, the Centers for Disease Control (CDC) estimates that every year, influenza affects 9-60 million Americans, causes 140,000-710,100 hospitalizations, and results in 12,000-56,000 deaths. (Influenza is more severe in some years than others.) Most people get better without needing hospitalization, but some people get very sick. Older adults are especially likely to get dangerously ill from catching the flu.
+So I agree with the CDC’s recommendation: everyone over the age of 6 months should get their seasonal flu shot.
+In fact, I’m about to go get mine. As a healthy woman in her 40s, I’m not that concerned about getting dangerously ill from influenza. Instead, I get my annual flu shot because I want to minimize my chance of getting sick and perhaps exposing my older patients to influenza.
+This month, you’ll probably be encouraged to get vaccinated too. So in this article, I’ll address some key things to know about influenza and the flu shot, along with some common questions and concerns. Here’s what I’ll cover:
+* The basics of influenza and vaccination against the flu
+* What to know about flu shots for older adults
+* What’s new and resources for the 2017-2018 flu...
+Where did the author get the facts about how many people are affected by influenza each year?
+Pick the correct answer from the following options:
+
+A. the primary care clinic
+
+B. the article she wrote
+
+C. Centers for Disease Control
+
+D. not enough information",C,A|||B|||C|||D,quail,6107
+"Dialogue:
+
+M: Hello!
+
+W: Hello, Mike! This is Jane.
+
+M: Oh. Hello, Jane!
+
+W: Listen, Mike! I've got a real problem.
+
+M: What is it?
+
+W: The car's broken down.
+
+M: Oh, not again.
+
+W: Yeah. I checked the oil and I checked almost everything. It's just not starting at all.
+
+M: You have to get rid of it, you know.
+
+W: I know, I know. But look, the thing is, I've got to pick Tom up at the airport. Can I......?
+
+M: Use my car? Yes, of course.
+
+W: That'll be great! It's very kind of you.
+
+M: Come on when you like. I don't need it till tonight.
+
+W: OK! I'll be around in about an hour. Thanks a lot!
+
+M: It's all right. See you then!
+
+W: See you!
+
+Question: Where will Jane be in about one hour? 
+
+- At Mike's place.
+
+- At the airport.
+
+- At a garage.",At Mike's place.,At Mike's place.|||At the airport.|||At a garage.,dream,2191
+"Punch Taverns wanted to turn The Corn Exchange in Crickhowell, into a shop, with a retail giant interested - the town has only one national retailer.
+But the idea has been withdrawn following fierce opposition, though Punch Taverns said the plans could be reintroduced later.
+A businessman has offered to set up a ""community investment club"".
+About 12 people put their names forward to join the consortium and the Corn Exchange Action Group has appealed for more investors to come forward.
+More than 3,500 people signed a petition and 2,560 letters of objection were written to prevent the supermarket taking over the building.
+Boots chemist is the only national chain in the town. All other businesses are family run and independent.
+Punch Taverns said in a statement the decision to withdraw the plans followed discussions about alternative uses for the building, which it said it hoped would succeed.
+But it said the plans could be reintroduced if the talks failed.
+
+===
+
+Write a summary of the text above :",A Powys pub at the centre of a row over plans to turn it into a supermarket could be bought by a community group.,,xsum,34199
+"Extract key points from the article based on which the stock market could react:
+
+(CNN) -- Rafi Kopelan is a typical 5-year-old. She's mastered Candyland. She's learning to read. Given a choice, she'd spend hours on the swings at the playground. But unlike her classmates, Rafi's body is covered in blisters from her scalp to her feet. Her corneas are scratched. Her toes are fused together. And her esophagus is lined with so much scar tissue that she can barely swallow. That's because Rafi was born with a rare connective tissue disorder called epidermolysis bullosa (EB). The genetic disease causes her skin to break down in response to the slightest friction. Even minor contact -- the scratch of a fingernail, the tag on the back of her shirt -- causes her skin to tear or to erupt in blisters, leaving 75% of her body covered in painful, open lesions. Likewise, EB ravages her organs, damaging her heart, eyes, teeth and esophagus. Virtually no part of her tiny body is left untouched. ""It's literally the worst disease you've never heard of,"" said her father, Brett Kopelan. An estimated 15,000 children in the United States suffer from EB, according to the Dystrophic Epidermolysis Bullosa Research Association of America. The disease, which occurs when the body lacks the ability to produce a specific type of collagen, is so rare that few treatments exist. Eventually, EB proves fatal, either through organ failure, secondary skin cancer or infection. Worst of all, there is no cure. But in New York City, where Rafi lives, a group of neighborhood mothers is hoping to change that, and in doing so, they are helping to change the way rare disease research is funded in the United States. Group leaders Jill Arnold Pallad and Jamie Granet Bederman met the Kopelans when their children were enrolled at the Montclare Children's School in Manhattan. Moved by Rafi's struggle, they felt an urgency to act. ""I became consumed by it,"" said Bederman, ""Here was this family in my neighborhood, who was so like my own, except that their little girl had an awful disease no one had heard of."" Armed with nothing more than...","5-year-old Rafi Kopelan suffers from a rare connective tissue disorder .
+A group of moms banded together and used social media to create Rafi's Run .
+Last year the run raised more than $200,000 for medical research .",,cnn_daily_mail,34487
+"Process:
+
+- Bats and other animals produce a high-pitched tone
+- The sound travels in waves, as sound does
+- The sound 'bounces' off of a nearby object
+- The sound wave returns to the bat
+- The bat hears the echoed sound
+- Folds in the bat's ear and adaptations in the bat's brain enable it to determine the size, shape, and position of the other object via the properties of the returned sound waves
+- Other animals use echolocation in generally similar ways
+- 
+
+suppose the bat will not be able to locate where it is happens, how will it affect WEAKER echolocation.
+
+Which of the following is the supposed perturbation?
+
+- directly impacting a step of the process
+- indirectly impacting a step of the process
+- not impacting any step of the process",directly impacting a step of the process,indirectly impacting a step of the process|||not impacting any step of the process,wiqa,25851
+i am thrilled with the way my skin and hair feel if you are like me you are skeptical. What emotion does the writer express for the message?,fear,sadness|||joy|||love|||anger|||fear|||surprise,emotion,10443
+"After having seen and loved Postal (yes, I actually loved Postal), I decided to try another Uwe Boll film and I picked out Seed because I happened to stumble on it in a local DVD-store and it's supposed to be one of his better films.<br /><br />While the first 10 to 15 minutes of the film were very promising and seemed like the beginning of a not too mainstream psychological thriller, it soon went downhill from there and eventually degraded into one of the most generic slasher films I've seen so far, including a massive amount of plot holes, unrealistic emotional responses and sub-par acting. It seems like Boll tried his best to come up with a decent plot but after a while just gave up on it. Maybe he should stick to comedy?! The few good things about this film is that he does manage to create an overall creepy atmosphere, that the special effects are better than I expected and the soundtrack does go well with the overall atmosphere, but the unbalanced pacing of this film combined with the utter generic nature thereof makes he last half hour quite tedious to watch, which ruined my experience altogether. There are a very fairly well done shocking scenes, but they seem to be there for the shock value alone. And let's not forget the camera work that was pretty nauseating at times.<br /><br />I hope Uwe Boll will one day learn what makes a good film, because between a lot of horrible films he does seem to make a decent film every now and then. Seed just isn't one of those. What sentiment does the writer express for the movie?",negative,negative|||positive,imdb,5710
+"A cabinet of coins is the Münzkabinett der TUI-AG. The Polizeigeschichtliche Sammlung Niedersachsen is the largest police museum in Germany. Textiles from all over the world can be visited in the Museum for textile art. The EXPOseeum is the museum of the world-exhibition ""EXPO 2000 Hannover"". Carpets and objects from the orient can be visited in the Oriental Carpet Museum. The Blind Man Museum is a rarity in Germany, another one is only in Berlin. The Museum of veterinary medicine is unique in Germany. The Museum for Energy History describes the 150 years old history of the application of energy. The Home Museum Ahlem shows the history of the district of Ahlem. The Mahn- und Gedenkstätte Ahlem describes the history of the Jewish people in Hanover and the Stiftung Ahlers Pro Arte / Kestner Pro Arte shows modern art. Modern art is also the main topic of the Kunsthalle Faust, the Nord/LB Art Gellery and of the Foro Artistico / Eisfabrik.
+
+With reference to the above context, What is the main topic of the Kunsthalle Faust?",Modern art,,squad,28158
+"You are given a new situation: Different wavelength electromagnetic radiations have different uses. John is a physicist. He needed to find appropriate wavelength electromagnetic radiations for his experiments. To that end, he selected three electromagnetic radiations, microwaves, infrared light, and visible light. He noted microwaves as case A, infrared as case B, and visible light as case C.
+
+and a hint : Infrared (IR) light is electromagnetic radiation with a wavelength between 0.7 and 300 micrometers, which corresponds to a frequency range between 430 and 1 THz respectively. IR wavelengths are longer than that of visible light, but shorter than that of microwaves. Infrared may be detected at a distance from the radiating objects by ""feel."" Infrared sensing snakes can detect and focus infrared by use of a pinhole lens in their heads, called ""pits"". Bright sunlight provides an irradiance of just over 1 kilowatt per square meter at sea level. Of this energy, 53% is infrared radiation, 44% is visible light, and 3% is ultraviolet radiation.
+
+Please answer this question : Which wavelengths would be shorter, case A or case B?",case B,,ropes,8642
+Make a title for this article: the iranian-backed hezbollah vowed saturday to fight on against israel in spite of progress in israeli-syrian peace negotiations .,hezbollah vows to fight on against israel,,gigaword,25017
+"Can I replace the sentence
+Wild rock legend Ozzy Osbourne was in intensive care today as he continued his “ steady ” recovery from a quad bike accident .
+with the sentence
+Wild rock legend Ozzy Osbourne could be kept in intensive care for “ several days ” following his quad bike accident , his doctor said tonight .
+and have it mean the same thing?",yes,no|||yes,mrpc,2358
+"Generate a question from the following passage that has the answer, Lions
+Passage : In week 6, the Lions hosted the NFC West Division-leading San Francisco 49ers. The Lions struck first, when Jason Hanson kicked a 25-yard field goal that came after a San Francisco turnover. Detroit added to their lead when Brandon Pettigrew caught a 16-yard TD pass. In the second quarter, the 49ers finally got on the board with a 1-yard TD run by Frank Gore. San Francisco received a safety when Aldon Smith sacked Matthew Stafford in the end zone. The final points of the first half came just before intermission when David Akers of the 49ers kicked a 55-yard field goal, putting the Lions down at halftime for the fourth consecutive week. After the break, Detroit scored on a 24-yard field goal. San Francisco responded with a field goal of their own, this one from 31 yards out. In the fourth quarter, the Lions' Nate Burleson caught a 5-yard TD pass; the Lions went for a 2-point conversion but Calvin Johnson failed to catch Matthew Stafford's pass. In the final 2 minutes, the 49ers rallied from behind, first with a 6-yard TD catch by Delanie Walker, then a 37-yard field goal by David Akers, putting them up 25-19. With 1:02 left in the game, the Lions attempted another comeback, but San Francisco's defense held them off, handing Detroit its first loss of the season as the team fell to 5-1 and 2nd place in the NFC North. After the game, coaches Jim Schwartz and Jim Harbaugh got into an argument after Schwartz claimed Harbaugh pushed him out of the way when the two coaches were shaking hands.
+Question :",Which team got on the board first?,,drop,334
+"Summarise the article:
+
+(Rolling Stone) -- Russian Prime Minister Dmitry Medvedev showed sympathy for the imprisoned members of Pussy Riot at a regional meeting for the ruling United Russia party today, the Wall Street Journal reports. He maintained that their two-year prison sentence is excessive. ""The term is very strong. I would even say a terrible burden,"" said Medvedev in his televised response. ""I don't want to replace the judge... but the time they have already served is, in essence, more than enough to make them think about what happened, whether it was from their own stupidity or for other reasons."" Medvedev also said that he believes a suspended sentence, including the six-plus months the women have already served, would have been enough. Eddie Van Halen Goes Bananas on Howard Stern: The Full Highlights . ""Prolonging their time in prison in connection to this case seems unproductive,"" he said. Still, Medvedev said he was ""sickened"" by the group's acts and the ""hysteria"" they caused. Paul McCartney Voices Support for Jailed Russian Band Pussy Riot . The three imprisoned members of Pussy Riot have appealed their convictions, while other members of the group have fled Russia to escape arrest. The group recently released a video thanking Madonna, BjÃ¶rk, Green Day, the Red Hot Chili Peppers and other artists for their public support while they burned a poster of Russian president Vladimir Putin. See full story at RollingStone.com. Copyright © 2011 Rolling Stone.","Russian Prime Minister Dmitry Medvedev has showed sympathy for the imprisoned members of Pussy Riot .
+He maintained that their two-year prison sentence is excessive .
+""The term is very strong. I would even say a terrible burden,"" he said .",,cnn_daily_mail,28079
+"I am testing my students' logic.
+What is the answer they should choose between ""gravel driveway"" and ""tile floor""?
+Logic test: Mary got a new skateboard for her birthday and tried it out around the house. She found that it rolled much smoother on her _____. This is due to higher friction in the gravel. (A) tile floor (B) gravel driveway",gravel driveway,gravel driveway|||tile floor,quarel,664
+"it has the ability to offend and put off everyone , but it holds you with its outrageousness . What is the sentiment expressed by the reviewer for the movie?",positive,negative|||positive,rotten_tomatoes,1342
+"I am verifying the answers generated by an automatic system to the following question: where was the first march madness game played
+Suggested answer: The NCAA has credited Bob Walsh of the Seattle Organizing Committee for starting the March Madness celebration during 1984.
+Should I validate this answer?",No,No|||Yes,wiki_qa,18868
+"Can you write an outline of the following article in a few points?
+
+Article: (CNN) -- Several years ago, when my husband and I went to collect our newly adopted cat after surgery, the vet receptionist picked up the phone and languidly informed whoever was at the other end: ""Minou's mommy and daddy are here to pick her up."" Wow. Apparently I had a baby. A furry one, currently stapled together with a cone on its head. There are various types of pet owners. At one end of the spectrum is the ""no nonsense"" variety who believe the lines between beast and human are far too often blurred. At the other extreme are those whose pet is categorically their baby. And then there's everyone in between. For many, consciously or otherwise, a pet is a practice child, a step up in responsibility between none and a lot. Something to love and take care of, but that you can leave alone when you go out for dinner without fear that it will die. This is perhaps why so frequently the horse (dog, cat, or chinchilla) comes before the (baby) carriage. But what happens to your ""pet baby"" when it comes time for a real human child to join your family? Our baby is due in July, and despite my occasional fantasies that the cat won't notice, I know that in reality she will, and I don't think she will like it. The cat sleeps in our bed, commands attention whenever she desires, and doesn't have to share her living space with anything of a remotely similar size. Dr. Heather Thomson, from Manhattan's West Village Vet, says that more than 50% of the practice's clients who have a new baby find their pets are stressed, nervous and upset by it. No wonder. When a pet is used to being the baby, it can be disconcerting to suddenly have to compete with what appears to be a tiny, yelling object vying for the spotlight. ""They were our kids,"" says Caroline Krediet of dogs Hector and Lemon prior to their baby's arrival. ""We arranged weekend outings around them, indulged them. Put their needs first at all times, almost."" The same was true for Lauren Crandall before her son came along. ""It was all about E.G., all the time,"" she says of...","When a pet is used to being babied, a new human baby can upset the household balance .
+Katie Walmsley is concerned her cat Minou will react badly when her baby is born .
+Veterinarians recommend slowly acclimating your pet to the possibility a child is coming .
+The transition isn't always smooth, but careful planning and preparation can pay off .",,cnn_daily_mail,36873
+"Free-to-air channels on Foxtel crashed on Wednesday afternoon, an outage which came in the middle of cricketer Phillip Hughes' funeral. The outage caused all free to air channels to stop broadcasting, but the blackout was particularly bad for viewers watching the Hughes funeral on Channel Nine. It cut out when Hughes' cousin Nino Ramunno was speaking and resumed broadcast around 20 minutes later. A Foxtel spokesperson said they're yet to identify the reach of the outage but admitted it had a 'reasonably large impact'. Scroll down for video Foxtel users have expressed their outrage as the service went down in the middle of Phillip Hughes' funeral
+@highlight
+Free-to-air channels on Foxtel are down across the country
+@highlight
+Channel Nine is the worst affected
+@highlight
+The channels went down in middle of Phillip Hughes' funeral
+@highlight
+Foxtel said the outage was due to bad weather at their satellite site 
+Many took to social media to slam @placeholder over the inconvenient timing 
+Here, the placeholder refers to",Foxtel,Nino Ramunno|||Foxtel|||Phillip Hughes|||Hughes|||Channel Nine,record,6893
+I've always wondered: In 2014 Belgium became the first country in the world to legalize what controversial treatment of terminally ill people?,Euthanise,,triviaqa,26173
+"Delta CEO declines pay ATLANTA Delta Air Lines Inc. #39;s chief executive said yesterday he is declining his six-figure salary for the rest of the year as he detailed a 10 percent pay cut that will affect senior officials, administrative staff and ticket and gate agents. 
+Is this a piece of news regarding world politics, sports, business, or science and technology?",Business,World politics|||Sports|||Business|||Science and technology,ag_news,43152
+"Given this review: ""koko like""
+Would you recommend this app to a friend? Not at all, No, Maybe, Yes, or Definitely?",Maybe,Not at all|||No|||Maybe|||Yes|||Definitely,app_reviews,33943
+"Ignoring the order of the concepts: water, reflect, maple; 
+Generate a sentence with all the concepts :",green maple leaves reflecting in the water,,common_gen,42657
+"most new movies have a bright sheen . some , like ballistic , arrive stillborn . . . looking like the beaten , well-worn video box cover of seven years into the future . Did the reviewer find this movie good or bad?",bad,bad|||good,rotten_tomatoes,6388
+"I am hesitating between 4 options to answer the following question, which option should I choose?
+Question: Which factor most accurately describes the statement ""Survival of the fittest"" in relation to natural selection?
+Possibilities:
+- the mutation rate
+- the ability of offspring to reproduce
+- the amount of food an organism obtains
+- the ability to withstand environmental extremes",the ability of offspring to reproduce,the mutation rate|||the ability of offspring to reproduce|||the amount of food an organism obtains|||the ability to withstand environmental extremes,arc,946
+"Quinn is Remy's supervisor at the company they work for.
+
+Given the context: What will Quinn want to do next?
+
+Possible answers: work hard for Quinn, demote Remy, an organized worker",demote Remy,work hard for Quinn|||demote Remy|||an organized worker,social_iqa,6008
+"Read the following context and answer the question.
+Context: The whole place is really laid back , there s tables , chairs and beanbags lying around for people to hang out in comfort ... and there s free internet - couple of computers , couple of laptops hanging around the reception / bar that are always available . When we first walked in they were playing Sublime - so I loved it right away and wanted to stay forever . After going for some food and a few drinks in the town we decided to have one more drink back at the hostel before going to sleep - when we got back they were mid way through playing a Bob Marley album ! ! I loved it before .
+Question: What might I do after leaving this place ?
+Answer:",I will definitely go back again because it was perfect .,I wo n't tell anyone about this place and keep it to myself .|||I will go back in the morning and take picture for social media .|||I will not go back because they were playing Sublime which I do n't like .|||I will definitely go back again because it was perfect .,cosmos_qa,1945
+"Convert the concepts to a sentence:
+ship, passenger, wait",a small cruise ship waiting for passengers .,,common_gen,49868
+"Given the following passage
+
+""The primary city airport is George Bush Intercontinental Airport (IAH), the tenth-busiest in the United States for total passengers, and twenty eighth-busiest worldwide. Bush Intercontinental currently ranks fourth in the United States for non-stop domestic and international service with 182 destinations. In 2006, the United States Department of Transportation named IAH the fastest-growing of the top ten airports in the United States. The Houston Air Route Traffic Control Center stands on the George Bush Intercontinental Airport grounds."",
+
+answer the following question. Note that the answer is present within the text.
+
+Question: What is named after a president?",Airport,,adversarial_qa,8143
+is approximately ten miles from downtown Oklahoma City and borders to the north to the city of Nicoma Park and to the south to the city of Midwest City . Question: Spencer is approximately ten miles from downtown Oklahoma City and borders the City of Nicoma Park to the east and the City of Midwest City to the south . Paraphrase or not?,No,No|||Yes,paws,3632
+What country is the grand bahama island in?,Bahamas,,webquestions,3
+"Read the bio below and try to give details on kim il -lrb- politician -rrb-
+'s: 
+ 
+- hanja 
+  
+- context 
+  
+- hangul 
+  
+- rr 
+    
+- mr 
+ 
+
+Bio: kim il -lrb- march 20 , 1910 -- march 9 , 1984 -rrb- was a north korean politician .
+he was prime minister from 28 december 1972 to 19 april 1976 .
+he was born on march 20 , 1910 , in hambyong province .
+according to kcna , kim il joined the underground communist party in 1932 and fought the japanese occupation from 1935 .
+he served in different military posts , and then became first deputy prime minister in 1959 , prime minister in 1972 and vice president in 1976 .
+kim spent much of 1982 and 1983 receiving medical treatment in romania .
+he died on march 9 , 1984 , 11 days short of his 74th birthday .","- hanja is 金 一
+
+
+
+- context is north
+
+
+
+- hangul is 김일
+
+
+
+- rr is gim il
+
+
+
+
+
+- mr is kim il",,wiki_bio,3161
+The following movie review expresses what sentiment? if only the story about a multi-million dollar con bothered to include the con .,negative,negative|||positive,rotten_tomatoes,5951
+"The northern Cavefish or southern blindfish , `` Amblyopsis spelaea '' , is found in caves through Indiana and North - Kentucky . Question: The northern Cavefish or the northern blindfish , `` Amblyopsis spelaea '' , is found in caves by Kentucky and southern Indiana . Paraphrase or not?",No,No|||Yes,paws,12381
+"I want to know whether the following two sentences mean the same thing.
+Mitchell , Man of La Mancha , Malcolm Gets from Amour and John Selya , Movin ' Out , complete the field .
+Brian Stokes Mitchell , who stars in a revival of Man of La Mancha , Malcolm Gets from Amour and John Selya of Movin Out fill out the category .
+Do they?",yes,no|||yes,mrpc,2992
+"Given the question title, question content, and the answer, classify the question into one of these topics, Society & Culture, Science & Mathematics, Health, Education & Reference, Computers & Internet, Sports, Business & Finance, Entertainment & Music, Family & Relationships, Politics & Government:
+
+Question Title: can someone give me the website to make a webpage?
+
+Question content:  
+
+Answer: If you just want to get something online and don't want to have to learn HTML, Yahoo 360 seems like a pretty good service.\n\nThere are other services that do much the same thing, so shop around.",Computers & Internet,Society & Culture|||Science & Mathematics|||Health|||Education & Reference|||Computers & Internet|||Sports|||Business & Finance|||Entertainment & Music|||Family & Relationships|||Politics & Government,yahoo_answers_topics,30603
+"I am hesitating between 4 options to answer the following question, which option should I choose?
+Question: A sample in a cylindrical container has a cylindrical shape and a fixed volume. The state of matter of the sample
+Possibilities:
+- must be solid.
+- could be either solid or liquid.
+- must be liquid.
+- could be either liquid or gas.",could be either solid or liquid.,must be solid.|||could be either solid or liquid.|||must be liquid.|||could be either liquid or gas.,arc,794
+"Question: Who caught a 1-yard touchdown reception?
+Answer based on following passage.
+
+Hoping to increase their winning streak the Falcons flew to Lincoln Financial Field for an NFC duel against the Philadelphia Eagles. In the first quarter the Falcons trailed early as WR DeSean Jackson raced through the defense on a 31-yard TD run. Later, QB Kevin Kolb connected with him on a 34-yard TD pass. The Falcons' secondary  continued to struggle when Kolb found WR Jeremy Maclin on an 8-yard TD pass. Facing, a 21-0 deficit,  the Falcons replied with QB Matt Ryan hitting TE Tony Gonzalez on a 1-yard TD pass. This was followed in the third quarter by kicker Matt Bryant hitting a 26-yard field goal. However, the Falcons fell further behind when Kolb found Maclin again on an amazing  83-yard TD pass. The Falcons replied with Ryan hitting Gonzalez, again, on a 13-yard TD pass. The Eagles pulled away with All-Pro kicker David Akers making a 30-yard field goal.
+
+Answer:",Tony Gonzalez,,drop,47587
+"it's a piece of handiwork that shows its indie tatters and self-conscious seams in places , but has some quietly moving moments and an intelligent subtlety . What sentiment does the writer express for the movie?",positive,negative|||positive,rotten_tomatoes,2917
+"Alcatel Mobile Phones -  Alcatel Mobile Phones are a brand of mobile handsets. It was established in 2004 as a joint venture between Alcatel-Lucent of France and TCL Communication of China.TCL Mobile Limited (former name: T&A Mobile Phones Limited) is a member of TCL Communication listed on Hong Kong Stock Exchange (HKSE: 2618) which was established in August 2004 by TCL Communication and Alcatel.TCL Mobile Limited manages three business units: ALCATEL Mobile Phones TCL Mobile Phones and Brand Design Lab. Given a choice of categories company, educational institution, artist, athlete, office holder, mean of transportation, building, natural place, village, animal, plant, album, film or written work, the text refers to which one?",Company,Company|||Educational Institution|||Artist|||Athlete|||Office Holder|||Mean Of Transportation|||Building|||Natural Place|||Village|||Animal|||Plant|||Album|||Film|||Written Work,dbpedia,13857
+"Given a research abstract: The effect of neoadjuvant chemotherapy (NACT) on topographical distribution patterns of lymph node metastasis in cervical cancer was unknown., Patients with FIGO stage IB1-IIB who underwent radical surgery with or without NACT were enrolled (3527 patients). A matched-case comparison design was used to compare the effects of NACT on lymph node metastasis., We analyzed groups of 167 and 140 patients who were diagnosed with lymph node metastasis in the matched primary surgery group and NACT group, respectively, and no significant difference was observed (p = 0.081). The incidence of lymph node metastasis was significantly decreased in the NACT-responsive group compared to the non-responsive group (18.4% vs. 38.6%, P<0.001). The metastatic rates for every lymph node group also declined in the NACT-responsive group except for the deep inguinal and the para-aortic lymph node groups. Clinical response, deep stromal, parametrial and lymph vascular invasions were independent risk factors for lymph node metastasis in the NACT group. Furthermore, deep stromal invasion and lymph vascular invasion, but not the response to NACT, were independently associated with upper LNM. The number of lymph nodes involved, response to NACT, tumor histology and a positive vaginal margin were independent prognostic factors affecting DFS or OS rates in node-positive patients treated with NACT plus radical surgery.
+And given keywords: Adult, Aged, Antineoplastic Combined Chemotherapy Protocols, Female, Humans, Lymph Node Excision, Lymph Nodes, Lymphatic Metastasis, Middle Aged, Neoadjuvant Therapy, Neoplasm Staging, Retrospective Studies, Risk Factors, Treatment Outcome, Uterine Cervical Neoplasms, Young Adult.
+ 
+What is the question answered by the above research abstract?",Could the extent of lymphadenectomy be modified by neoadjuvant chemotherapy in cervical cancer?,,pubmed_qa,302
+"Which of the following better fits the description?
+
+Is it that: 
+
+Mark saw the doctor who was framed with murder,
+
+or rather: 
+
+Mark saw the doctor who prescribed cold medicine?
+
+Description: 
+
+Mark woke up on Monday morning with a terrible cold. Mark took the suggested dose from his doctor and felt much better.",Mark saw the doctor who prescribed cold medicine,Mark saw the doctor who was framed with murder|||Mark saw the doctor who prescribed cold medicine,art,19156
+i wanted it to feel like all these fabulous people at an incredible party fell asleep and when they woke up the place had been a bit overtaken with lush florals and greenery. The emotion expressed for the message is,joy,sadness|||joy|||love|||anger|||fear|||surprise,emotion,13640
+"What do lawyers tend to do when they are not treated well at a restaurant?
+- start fighting
+- press charges
+- settle disputes
+- keep quiet
+- work against system
+
+The best answer is",press charges,start fighting|||press charges|||settle disputes|||keep quiet|||work against system,cos_e,5858
+"It is usually difficult to forgive your spouse if they have what with someone else?
+- sex
+- butterflies
+- flood of relief
+- nice to
+- happiness
+
+The best answer is",sex,sex|||butterflies|||flood of relief|||nice to|||happiness,cos_e,4385
+"We know that:
+
+Jane loved to go horseback riding.,
+
+and:
+
+After she recovered, Jane got right back to riding. 
+
+Which one is more likely?
+
+The first option: 
+
+jane was thrown off a prized horse while out riding, 
+
+or the second option:
+
+Jane was thrown off a prized pit bull while out riding?",jane was thrown off a prized horse while out riding,jane was thrown off a prized horse while out riding|||Jane was thrown off a prized pit bull while out riding,art,14943
+"The books of James Michener taking readers to faraway places with strange sounding names were probably at their most popular in the 1940s and 1950s. His Tales of the South Pacific became a major blockbuster Broadway hit for Rodgers&Hammerstein. South Pacific was directed by Joshua Logan and he was a natural to do the film adaption of another Michener success, Sayonara.<br /><br />It was only a decade before that American films during World War II did not portray the Japanese kindly. I'm sure it wasn't easy for people who fought the Pacific war to change attitudes overnight. That and a general no fraternization policy with occupied peoples in general are at the crux of this story about interracial romance.<br /><br />Sayonara is a relevant film today. The military has always butted in to the personal lives of its personnel in ways no civilian employer could get away with legally. In America at the time Sayonara was made there were still miscegenation laws on the books in many states. Today gays in the military is a big issue. Someone may one day do a Sayonara like film on that issue.<br /><br />Joshua Logan was on familiar ground. South Pacific also had racism as a component of its plot. With a sure hand, Logan assembled a great cast and crafts a beautiful story.<br /><br />Marlon Brando, Patricia Owens, James Garner, Kent Smith some of the occidental players do a fine job. But the picture is stolen by the orientals here. Miko Taka hits the mark beautifully as Brando's love interest. But the real stars are the two that one both Supporting players Oscars, Red Buttons and Miyoshi Umeki.<br /><br />Buttons is your everyman enlisted man Air Force member. He falls passionately in love with Katsumi played by Miyoshi Umeki. They marry and the military cruelly does everything they can to break them up. They presume to KNOW what's best for Buttons and Umeki. Buttons was a TV comedian and a fair talent, but he never got a part as good as this the rest of his career.<br /><br />And Miyoshi Umeki's Oscar was the first one... What is the sentiment expressed by the reviewer for the movie?",positive,negative|||positive,imdb,15180
+"Although he had not made the squad for the previous qualifier in Slovakia a month before, Oliver Burke still believed his coach Gordon Strachan would swivel on his seat and turn to the recently acquired RB Leipzig signing in the hope that he would change the game.
+In front of the famous Wembley crowd Burke believed he would be Scotland's hero.
+Yet the Scotland coach did not pick the 19-year-old talent. In fact, he didn't pick anyone at all until Gary Cahill had made it 3-0 11 minutes later, when defensive midfielder James McArthur was brought on to limit the damage already done.
+""I'm sure any player would say that he wasn't very happy,"" Burke told BBC Scotland when asked about that day. ""But really I think I just had to take a step back and realise what I'd done and where I am.
+""Obviously I'm still very proud to be a part of the team and at the end of the day it's the manager's choice.""
+Media playback is not supported on this device
+Any misplaced assumptions of playing a key role for the national team that night are quickly excused when consideration is made for the hype that has followed Burke to Leipzig over the past eight months.
+Compared to Real Madrid star Gareth Bale owing to his style of play, and touted as a future Scotland star, the German club were inundated with requests to interview Burke when he first arrived. Despite only scoring his first goal for Nottingham Forest 11 months prior to that night at Wembley, the young talent was already an established name within the European game.
+""I was really taken aback,"" said Burke when asked about the attention. ""I didn't really think this was a part of football as much. When you're a young kid you don't see these things. You just see footballers playing and enjoying it out on the pitch.""
+Despite his new-found fame, Burke had joined a club that stresses the importance of team performances over individualism and was quickly made aware that he had plenty to learn before he would be stealing the headlines in Leipzig, as he had done in Nottingham.
+After setting...
+How would you rephrase that in a few words?","When Adam Lallana's diving header sailed past Craig Gordon to double England's lead over Scotland at Wembley Stadium last November, all but one head on the Scottish bench slumped to a resigned sigh.",,xsum,29373
+"Does this phrase make sense?
+How to make Italian Beef soup start with placing 1 can beef broth in a large sauce pan, add 2  pounds  cubed Beef, 1 1/2 cup chopped Carrots, 1/2  cup chopped basil, 1 1/2 cup chopped onions, 2 cups diced potatoes, 1 cup diced peppers, 1/2 cup diced Zucchini squash, 1 can tomato paste,  1 pound diced tomatoes.  Add 1 tablespoon dried or fresh 1/2 pound macaroni, 1 tablespoon fresh or dried oregano , 1 teaspoon salt, 1 crushed clove garlic, 1 teaspoon pepper, 2 cloves minced garlic. Add 1 and  1/2 cup water, simmer on low to medium heat until onions are clear.  Cook covered on low heat for at least 30 min.  Make sure meat is cooked through.Taste after that time and add Salt and pepper to taste.
+Answer with Yes or No",Yes,Yes|||No,piqa,14257
+"Extract the answer to the question from the following context.
+Question: What did the Romans do before beating the latins?
+Context: After recovering surprisingly fast from the sack of Rome, the Romans immediately resumed their expansion within Italy. The First Samnite War from 343 BC to 341 BC was relatively short: the Romans beat the Samnites in two battles, but were forced to withdraw before they could pursue the conflict further due to the revolt of several of their Latin allies in the Latin War. Rome beat the Latins in the Battle of Vesuvius and again in the Battle of Trifanum, after which the Latin cities were obliged to submit to Roman rule.",beat the Samnites,,adversarial_qa,10230
+"I want to know whether the following two sentences mean the same thing.
+Special police detained Khodorkovsky early on Saturday in the Siberian city of Novosibirsk , where his plane had made a refuelling stop .
+Police detained Khodorkovsky early on Saturday when his jet made a refueling stop in the Siberian city of Novosibirsk .
+Do they?",yes,no|||yes,mrpc,377
+"For it to survive, the horse relied on its owner to bring it
+
+Pick the right answer from the list:
+- a harness
+- a lead.
+- grain
+- a saddle",grain,a harness|||a lead.|||grain|||a saddle,openbookqa,711
+"Which version is more likely?
+
+The first one:
+
+The vet said my dog was underweight,
+
+or the second one:
+
+The vet said that our dog was overweight?
+
+Assuming that:
+
+Our pet dog was weighed at the vet yesterday. We put him on a healthy diet immediately.",The vet said that our dog was overweight,The vet said my dog was underweight|||The vet said that our dog was overweight,art,2850
+"Process:
+
+- A butterfly lays an egg
+- A larvae matures inside of the egg
+- The caterpillar hatches from the egg
+- The caterpillar eats and grows
+- The caterpillar spins a coccoon around itself and forms into a pupa
+- The butterfly forms inside of the coccoon
+- The mature butterfly emerges from the coccoon
+- The butterfly mates
+- The female butterfly lays eggs.
+
+Perturbation hypothesis:
+suppose there is an increase in pollution happens, how will it affect fewer caterpillars emerge.
+
+Does the supposed perturbation have an effect (direct or indirect) on the process?",no,yes|||no,wiqa,29285
+"I received the questions ""Which is the best country to work in as a doctor?"" and ""Which country is the best to be educated and work in?"". Are they duplicates?",no,no|||yes,qqp,31297
+"I want to know whether the following two sentences mean the same thing.
+That compares to a net loss of $ 6.6 million , or 47 cents per share , on revenue of $ 15.5 million in 2002 's second fiscal quarter .
+In the first quarter , SCO had reported a net loss of $ 724,000 , or 6 cents per diluted share , on revenue of $ 13.5 million .
+Do they?",no,no|||yes,mrpc,2487
+"I'm an administrator on the website Quora. There are two posts, one that asks ""Can I send or receive money with unverified Paypal account?"" and another that asks ""Can you send and receive money with an unverified PayPal account?"". I can merge questions if they are asking the same thing. Can I merge these two questions?",yes,no|||yes,qqp,42362
+"Is the following question asking about Description, Entity, Abbreviation, Person, Quantity, Location?
+
+What is the origin of U.S. Army sergeant 's stripes ?",Abbreviation,Description|||Entity|||Abbreviation|||Person|||Quantity|||Location,trec,5197
+"We know that:
+
+Becky has a headache that won't go away.,
+
+and:
+
+She now has control over her headaches. 
+
+Which one is more likely?
+
+The first option: 
+
+So she refused to go to the cabinet to get medicine, 
+
+or the second option:
+
+So she went to the doctor to get medicine?",So she went to the doctor to get medicine,So she refused to go to the cabinet to get medicine|||So she went to the doctor to get medicine,art,45630
+"Read the following conversation and answer the question.
+
+W: Good morning, Uncle Smith.
+
+M: Good morning, Cathy.
+
+W: I want to have a dinner party to celebrate my birthday. Would you come?
+
+M: I'd love to, Cathy. What time?
+
+W: Next weekend, on Saturday.
+
+M: Saturday do you say?
+
+W: If that's all right with you.
+
+M: I'm afraid I'm busy then. I've already had plans.
+
+W: What about Sunday?
+
+M: I'm sure it will be all fight.
+
+W: Good, you'd better around 6:30 or 7:00, we'll heve time to chat a while.
+
+Question: Why wouldn't Uncle Smith come on Saturday? 
+
+- He only wanted to come on Sunday.
+
+- He would be very busy on Saturday.
+
+- His car was broken down.",He would be very busy on Saturday.,He only wanted to come on Sunday.|||He would be very busy on Saturday.|||His car was broken down.,dream,1306
+"Based on this review, would the user recommend this product?
+===
+Review: So, this comes across as a mockumentary, but it is suppose to be 100% true. It certainly doesn't have widespread interest, but I really enjoyed it, in its own silly way.
+Answer:",Yes,No|||Yes,amazon,43000
+"The classification of some organisms has changed. Which new process is used to reclassify organisms?
+
+Options:
+- Organisms are now given Latin-based scientific names.
+- Structures are now examined at the molecular level.
+- Organisms are now divided into three kingdoms.
+- Structures are now used to classify organisms.",Structures are now examined at the molecular level.,Organisms are now given Latin-based scientific names.|||Structures are now examined at the molecular level.|||Organisms are now divided into three kingdoms.|||Structures are now used to classify organisms.,arc,893
+"Process:
+
+- One type of air pollution is the addition of carbon dioxide gas into the air
+- Some scientists believe that releasing too much carbon dioxide into the atmosphere is one of the causes of global warming
+- This upsets the balance of the carbon cycle
+- The ozone layer helps protect us from harmful rays from the sun
+- It is getting damaged from air pollution such as methane gas from livestock and CFCs from spray cans
+- Acid rain is created when gasses such as sulfur dioxide get high into the atmosphere
+- The wind can blow these gasses for miles and then they get washed out of the air when it rains
+- This rain is called acid rain and can damage forests and kill fish.
+
+Perturbation hypothesis:
+suppose a person is a heavy smoker happens, how will it affect more carbon dioxide occurs.
+
+Does the supposed perturbation have an effect (direct or indirect) on the process?",no,yes|||no,wiqa,20408
+"A thing that is weathered from a large item to tiny items has existed for an amount of time over between
+
+Choose an answer from this list:
+- a week and a month
+- a month and a decade
+- a day and some weeks
+- a minute and an hour",a month and a decade,a week and a month|||a month and a decade|||a day and some weeks|||a minute and an hour,openbookqa,4110
+"Generate a question that has the following answer: 
+plastic monkey 
+for the following movie plot: 
+Iris (Toni Collette) is a very mousy and quiet young professional who doesn't want to ""rock the boat"" at the office where she works as a temp employee. Margaret (Parker Posey) is the polar opposite to Iris and a catalyst to help her change and speak up for herself. Paula (Lisa Kudrow) eagerly awaits post-work Happy Hours at a local bar and the chance to hook up with the company's executives. Jane (Alanna Ubach) is engaged to marry a jerk who is already cheating on her. Margaret hopes to become a permanent employee as an assistant to Mr. Lasky (Bob Balaban) but her dreams are thwarted when he suddenly dies.A series of thefts start to occur in the office and suspicion falls on the four temps, particularly Margaret. When Iris finds a plastic monkey that she thought was stolen inside Margaret's desk, she loses faith in her and believes she has been doing the stealing. Margaret suggest a one-day strike from work and her friends halfheartedly agree to join her, but on the appointed day, Margaret is ultimately the only one who does not come to work. As a result, the company's officious HR head (Debra Jo Rupp) fires Margaret, and management begins to micromanage the remaining three employees.Iris and the other women's friendships come to an end, as result of the stress, and eventually they all go their separate ways. Jane soon quits her job. Paula reveals that she only heard about Jane's wedding via a newspaper article and Paula goes to temp in another department.It is later revealed that another employee, a shy, quiet young woman from a rich household who became a permanent employee on her first day, was the culprit and that Margaret simply had an identical toy in her desk. Iris confronts the young woman when her diary (from which she does the film's narration) goes missing, and later receives a new diary and note of apology. Iris later is not hired for a job she really wanted, but ironically this helps motivate her to quit the temp field and move on. But before she leaves the company, she is able to do Margaret a...",What did Iris find in Margarets desk?,,duorc,8153
+"What is another term for drink?
+Choose the most suitable option to answer the above question.
+Options：
+
+A. ocean
+
+B. refreshment
+
+C. celebrating
+
+D. were thirsty
+
+E. full bladder",B,A|||B|||C|||D|||E,cos_e,6565
+i wanted to get a pumpkin spice latte this morning but it was hot and the last thing i wanted was a hot coffee maybe i am feeling a little bitter. What emotion does the writer express for the message?,anger,sadness|||joy|||love|||anger|||fear|||surprise,emotion,134
+"{ { plot } } In 1964 , in the peak of Beatlemania , a reluctant John Lennon is persuaded by manager Brian Epstein to meet Freddie Lennon , the father who abandoned him seventeen years earlier , with the press in attendance .  When they meet , John accuses his father of abandoning him , but his father says that `` he left it up to John . ''  John and Brian quickly leave the meeting .  The movie then jumps to 1967 , after Brian Epstein has died .  The Beatles are giving a press conference about their new film, Magical Mystery Tour .  John is skeptical about the film , but Paul ( ( ( Andrew Scott convinces him to go through with the idea .  John then invites his father to his mansion to live with him .  Freddie Lennon arrives and meets his grandson , Julian .  Sitting with his wife , John reads the criticism of Magical Mystery Tour , while comparing his wife to Brigitte Bardot , whom he says he will meet after he returns from India .  John finds a letter addressed to him , with the word `` Breathe '' written on it .  Later , after finding his father in a neighbor's house , Freddie reveals that he has a 19 year old girlfriend named Pauline , with whom he wants to live .  Lennon accuses his father of leaving him again , and then leaves , after telling his father that he wo n't live with him anymore .  After meeting Maharishi Mahesh Yogi , the Beatles quickly return to London , and in a press conference they say they made a mistake when they trusted Maharishi .  The journalists are curious about the Beatles new business -- Apple Records . 
+In what year do The Beatles give a press conference about their new film, Magical Mystery Tour? 
+I was going to say ""1970"". Does that sound right?",No,No|||Yes,multirc,21509
+"The answer to the question: What are the names of the persons about whom Elvis Mitchell said you'd think they were putting out a fire instead of shootin off sparks? is inside the article: In 1999, Aaliyah landed her first film role in Romeo Must Die, released March 22, 2000. Aaliyah starred opposite martial artist Jet Li, playing a couple who fall in love amid their warring families. It grossed US$18.6 million in its first weekend, ranking number two at the box office. Aaliyah purposely stayed away from reviews of the film to ""make it easier on"" herself, but she heard ""that people were able to get into me, which is what I wanted."" In contrast, some critics felt there was no chemistry between her and Jet Li, as well as viewing the film was too simplistic. This was echoed by Elvis Mitchell of The New York Times, who wrote that while Aaliyah was ""a natural"" and the film was conceived as a spotlight for both her and Li, ""they have so little chemistry together you'd think they're putting out a fire instead of shooting off sparks. Her role was well received by Glen Oliver by IGN who liked that she did not portray her character ""as a victimized female"" but instead ""as a strong female who does not come across as an over-the-top Women's Right Advocate.""
+In addition to acting, Aaliyah served as an executive producer of the film's soundtrack, where she contributed four songs. ""Try Again"" was released as a single from the soundtrack; the song topped the Billboard Hot 100, making Aaliyah the first artist to top the chart based solely on airplay; this led the song to be released in a 12"" vinyl and 7"" single. The music video won the Best Female Video and Best Video from a Film awards at the 2000 MTV Video Music Awards. It also earned her a Grammy Award nomination for Best Female R&B Vocalist. The soundtrack went on to sell 1.5 million copies in the United States., can you guess it ?",Aaliyah,,quoref,6763
+"They sat on forms , while Nana lay on the floor , but that was the only difference . They affected to ignore her as of an inferior social status to themselves , and she despised their light talk . She resented visits to the nursery from Mrs. Darling 's friends , but if they did come she first whipped off Michael 's pinafore and put him into the one with blue braiding , and smoothed out Wendy and made a dash at John 's hair . No nursery could possibly have been conducted more correctly , and Mr. Darling knew it , yet he sometimes wondered uneasily whether the neighbours talked . He had his position in the city to consider . Nana also troubled him in another way . He had sometimes a feeling that she did not admire him . `` I know she admires you tremendously , George , '' Mrs. Darling would assure him , and then she would sign to the children to be specially nice to father . Lovely dances followed , in which the only other servant , Liza , was sometimes allowed to join . Such a midget she looked in her long skirt and maid 's cap , though she had sworn , when engaged , that she would never see ten again . The gaiety of those romps ! And gayest of all was Mrs. Darling , who would pirouette so wildly that all you could see of her was the kiss , and then if you had dashed at her you might have got it . There never was a simpler happier family until the coming of Peter Pan . Mrs. Darling first heard of Peter when she was tidying up her children 's minds . It is the nightly custom of every good mother after her children are asleep to rummage in their minds and put things straight for next morning , repacking into their proper places the many articles that have wandered during the day . If you could keep awake -LRB- but of course you ca n't -RRB- you would see your own mother doing this , and you would find it very interesting to watch her . It is quite like tidying up drawers . You would see her on her knees , I expect , lingering humorously over some of your contents , wondering where on earth you had picked this... Doctors sometimes draw maps of other parts of you , and your own map can become intensely interesting , but catch them trying to draw a XXXXX of a child 's mind , which is not only confused , but keeps going round all the time .
+
+Fill in the XXXXX.",map,contents|||course|||earth|||feeling|||forms|||knees|||map|||mother|||person|||position,cbt,41594
+"The exclusion of social and political groups as targets of genocide in the CPPCG legal definition has been criticized by some historians and sociologists, for example M. Hassan Kakar in his book The Soviet Invasion and the Afghan Response, 1979–1982 argues that the international definition of genocide is too restricted, and that it should include political groups or any group so defined by the perpetrator and quotes Chalk and Jonassohn: ""Genocide is a form of one-sided mass killing in which a state or other authority intends to destroy a group, as that group and membership in it are defined by the perpetrator."" While there are various definitions of the term, Adam Jones states that the majority of genocide scholars consider that ""intent to destroy"" is a requirement for any act to be labelled genocide, and that there is growing agreement on the inclusion of the physical destruction criterion.
+
+Q: In what book did Kakar contend that the international definition of genocide was too narrow?
+
+A:",The Soviet Invasion and the Afghan Response,,squad,1251
+What religions are found in australia?,Anglicanism,,webquestions,531
+"I am hesitating between 4 options to answer the following question, which option should I choose?
+Question: Which event most changes an ecosystem in a single day?
+Possibilities:
+- drought
+- succession
+- decomposition
+- wildfire",wildfire,drought|||succession|||decomposition|||wildfire,arc,363
+"Given a PubMed abstract: To investigate the relevance of the Symptom Checklist 90-R Obsessive-Compulsive subscale to cognition in individuals with brain tumor., A prospective study of patients assessed with a neuropsychological test battery., A university medical center., Nineteen adults with biopsy-confirmed diagnoses of malignant brain tumors were assessed prior to aggressive chemotherapy., Included in the assessment were the Mattis Dementia Rating Scale, California Verbal Learning Test, Trail Making Test B, Symptom Checklist 90-R, Mood Assessment Scale, Beck Anxiety Inventory, and Chronic Illness Problem Inventory., The SCL 90-R Obsessive-Compulsive subscale was not related to objective measures of attention, verbal memory, or age. It was related significantly to symptoms of depression (r = .81, P<.005), anxiety (r = .66, P<.005), and subjective complaints of memory problems (r = .75, P<.005). Multivariate analyses indicated that reported symptoms of depression contributed 66% of the variance in predicting SCL 90-R Obsessive-Compulsive Scores, whereas symptoms of anxiety contributed an additional 6% (P<.0001).
+
+Answer this question: ""Does the SCL 90-R obsessive-compulsive dimension identify cognitive impairments?""",Our data suggest that the SCL 90-R is best viewed as an indicator of unidimensional emotional distress and somatic effects of structural brain injury.,,pubmed_qa,859
+"Environments which are covered in snow are often white as a result of said snow and what other factor?
+- conditions which allow little if any heat to be produced or stored
+- temperatures that are colder than a tropical environment
+- cool air that flows in a circular pattern
+- wind chill that meets warm fronts on occasion
+
+Which is the correct answer?",conditions which allow little if any heat to be produced or stored,conditions which allow little if any heat to be produced or stored|||temperatures that are colder than a tropical environment|||cool air that flows in a circular pattern|||wind chill that meets warm fronts on occasion,openbookqa,235
+"Guess a question that has the answer ""The King of Comedy""",In which film does Robert De Niro play the character Rupert Pupkin?,,triviaqa,27576
+"Does this phrase make sense?
+To stay warm in winter if your pants are too thin, wear a pair of long-johns or tights underneath your pants.
+Answer with Yes or No",Yes,Yes|||No,piqa,8784
+"Make a title for this article: the imam of sidi m ` cid mosque in constantine city , zidane UNK , ## , was killed by gunmen sunday after early-morning prayers , the algerian ministry of religious affairs said .",imam slain in algerian city,,gigaword,26359
+"Facts:
+
+
+- term: 13 july 1626 -- 2 november 1677
+
+
+
+- alma mater: christ church , oxford
+
+
+
+- children: dorothy 1684 -rrb- philip sidney , 3rd earl of leicester -lrb- spencer 1619 -- 1698 -rrb- lord algernon sidney -lrb- 1623 -- , 1683 -rrb- henry sydney , 1st earl of romney -lrb- countess 1641 -- 1704 -rrb- lord robert sidney lady lucy pelham of sunderland -lrb- 1617 --
+
+
+
+- name: robert sidney
+
+
+
+- spouse: dorothy percy
+
+
+
+- parents: robert sidney , 1st earl of leicester barbara gamage
+
+
+
+
+
+- title: earl of leicester
+
+
+Based on these bullet points, write a short biography describing the life of robert sidney , 2nd earl of leicester
+.","robert sidney , 2nd earl of leicester -lrb- 1 december 1595 -- 2 november 1677 -rrb- was an english diplomat and politician who sat in the house of commons between 1614 and 1625 and then succeeded to the peerage as earl of leicester .",,wiki_bio,3295
+"- office is president -rrb- -lrb- governor -rrb- of espirito santo -lrb- appointed
+
+
+
+
+
+- predecessor is antonio gomez aguirre
+
+
+
+- term end is december 8 , 1891
+
+
+
+
+
+- successor is a , graciano dos santos neves and galdino teixeira de barros governing loreto . junta formed by inácio henrique de gouveia
+
+
+
+- term start is june 7 , 1891
+
+
+
+Given the details above, guess who could this information be about.",alfeu adolfo monjardim de andrade e almeida,,wiki_bio,14052
+"Pick the option in line with common sense to answer the question.
+Question: Where could you find an actual weasel?
+Options:
+
+A. great outdoors
+
+B. fairytale
+
+C. zoo
+
+D. court room
+
+E. chicken coop",A,A|||B|||C|||D|||E,cos_e,8014
+"Jane the Virgin -- On April 2, 2018, The CW renewed the series for a fifth and final season. 
+Question: is there going to be a season 5 of jane the vergin
+Answer:",Yes,No|||Yes,boolq,6179
+"Joe was running around his home and crossed a property boundary, running into a meticulously manicured rosebush and doing damage to both it and himself.  Where might the rosebush been located?
+Choose the most suitable option to answer the above question.
+Options：
+
+A. neighbor's yard
+
+B. in the ground
+
+C. field
+
+D. nature
+
+E. botanic garden",A,A|||B|||C|||D|||E,cos_e,1374
+"I'm an administrator on the website Quora. There are two posts, one that asks ""How long does it take to master Lua?"" and another that asks ""How long does it take to master Erlang?"". I can merge questions if they are asking the same thing. Can I merge these two questions?",no,no|||yes,qqp,41442
+"He performed at festivals in Vienna , Holland , Oregon , Tanglewood , Edinburgh , Marlboro Bach and Carmel Bach . Question: He performed at the festivals of Edinburgh , Marlboro , Tanglewood , Vienna , Holland , Oregon Bach and Carmel Bach . True or False?",False,False|||True,paws,45709
+"Solution 1: You can get rid of wrinkles without an iron by filling a canteen with very hot water.  Use the canteen to smooth out wrinkles while applying pressure.
+Solution 2: You can get rid of wrinkles without an iron by filling a canteen with very cold water.  Use the canteen to beat out wrinkles while applying pressure.
+
+Goal: Get rid of wrinkles without an iron.
+
+Given the goal, what is the correct solution?
+
+Answer by copying the correct solution",You can get rid of wrinkles without an iron by filling a canteen with very hot water.  Use the canteen to smooth out wrinkles while applying pressure.,You can get rid of wrinkles without an iron by filling a canteen with very hot water.  Use the canteen to smooth out wrinkles while applying pressure.|||You can get rid of wrinkles without an iron by filling a canteen with very cold water.  Use the canteen to beat out wrinkles while applying pressure.,piqa,4159
+"Carson looked in the book and assited the baker in determining the time.
+
+Given the context: How would Carson feel afterwards?",like he was of assistance,like he was unhelpful|||like he was useless|||like he was of assistance,social_iqa,9579
+"Q: What is just below the cerebrum and coordinates body movements?
+
+
+ Choices:
+
+- cerebellum
+
+- bloodstream
+
+- spinal cord
+
+- hypothalamus
+
+A:",cerebellum,hypothalamus|||bloodstream|||spinal cord|||cerebellum,sciq,6919
+"Mike is an an archeologist. He was pondering about how human legacy would be viewed in the future. For that, he was very interested in technofossils. He located a site with ample evidence of technofossils. He noted that site as site A. To compare site A with a site with no technofossils he located another site. He noted that site as site B.
+
+Which site would reflect more erosion due to human activities, site A or site B?
+
+Hint: Increases in erosion due to farming and other operations will be reflected by changes in sediment composition and increases in deposition rates elsewhere. In land areas with a depositional regime, engineered structures will tend to be buried and preserved, along with litter and debris. Litter and debris thrown from boats or carried by rivers and creeks will accumulate in the marine environment, particularly in coastal areas. Such manmade artifacts preserved in stratigraphy are known as ""technofossils.""Changes in biodiversity will also be reflected in the fossil record, as will species introductions. An example cited is the domestic chicken, originally the red junglefowl Gallus gallus, native to south-east Asia but has since become the world's most common bird through human breeding and consumption, with over 60 billion consumed a year and whose bones would become fossilized in landfill sites. Hence, landfills are important resources to find ""technofossils"".",site A,,ropes,9720
+What is true of the speaker ?,The speaker is uncertain .,The speaker is uncertain .|||The speaker is better .|||None of the above choices .|||The speaker is a blessing .,cosmos_qa,13207
+"In saltwater, a squid's method of locomotion results in water being
+
+Choices:
+- pushed in front of it
+- sung about by Jethro Tull
+- displaced in the Great Lakes
+- displaced directly behind it",displaced directly behind it,pushed in front of it|||sung about by Jethro Tull|||displaced in the Great Lakes|||displaced directly behind it,openbookqa,2870
+"Pick one category for the following text. The options are - company, educational institution, artist, athlete, office holder, mean of transportation, building, natural place, village, animal, plant, album, film or written work. Renault do Brasil -  Renault do Brasil (Portuguese pronunciation: [ʁeˈno du bɾaˈziw]) formerly Renault do Brasil Automoveis is the Brazilian subsidiary of the French car manufacturer Renault. It was established in 1997 and is the fifth country's automaker by sales. In 2012 Brazil was the second largest market of Renault.",Company,Company|||Educational Institution|||Artist|||Athlete|||Office Holder|||Mean Of Transportation|||Building|||Natural Place|||Village|||Animal|||Plant|||Album|||Film|||Written Work,dbpedia,27651
+"Please answer correctly the following question related to the paragraph below. 
+
+Which friend learned less about the amount of trapped terrestrial radiation increasing?
+
+Two meteorologists were good friends and discussed diverse issues weekly. This week they will talk again. Tim read about the Greenhouse Effect while Norm read about the mini-Ice ages.
+
+Hint: Greenhouse Effect: The solar energy reaching the surface of the Earth is concentrated in short wavelengths, which can easily penetrate the greenhouse gases, such as carbon dioxide and methane. The Earth, however, is cooler than the sun and it radiates its heat in the form of energy in the far infrared range. These longer wavelengths are partially absorbed by the greenhouse gases and some of the solar heat is returned to Earth. At a certain temperature these processes are in equilibrium and the surface temperature of the Earth is stable. However, if more greenhouse gases are put in the atmosphere the amount of trapped terrestrial radiation increases, leading to an increase in global temperature.",Norm,,ropes,3500
+"The Punisher (season 2) -- A second season of The Punisher was ordered by Netflix in December 2017, less than a month after the first season was released. Showrunner Steve Lightfoot had an idea of what a second season would be when he first knew what the ``journey of Season 1'' was at the start of his work on the series, and did not let the fan reaction to the first season affect his plans since ``some people love it, some people hate it, some people are in the middle. My personal opinion with that stuff is you just have to be true to the character and the story you choose to tell.''
+
+Q: will netflix have a season 2 of the punisher? True or False?",True,False|||True,boolq,4543
+"Not knowing what to do , the chamberlain hurried back with his tale to the king , who immediately sent for the Wise Man , and then for his daughter . ` The thief must have stolen your bottle , ' said the king to the Wizard . ` No , my lord , it is here , ' answered the Wise Man , holding it out . ` Then he must have got yours , ' he cried , turning to his daughter . ` Indeed , father , it is safe in my pocket , ' replied she , taking it out as she spoke ; and they all three looked at each other and remained silent . ` Well , ' said the king at last , ` the man who has done this is cleverer than most men , and if he will make himself known to me he shall marry the princess and govern half my kingdom while I am alive , and the whole of it when I am dead . Go and announce this in the ballroom , ' he added to an attendant , ` and bring the fellow hither . ' So the attendant went into the ballroom and did as the king had bidden him , when , to his surprise , not one man , but twenty , stepped forward , all with black dots on their faces . ' I am the person you want , ' they all exclaimed at once , and the attendant , as much bewildered as the chamberlain had been , desired them to follow him into the king 's presence . But the question was too difficult for the king to decide , so he called together his council . For hours they talked , but to no purpose , and in the end they hit upon a plan which they might just as well have thought of at the beginning . And this was the plan . A child was to be brought to the palace , and next the king 's daughter would give her an apple . Then the child was to take the apple and be led into a room where the twenty men with the black dots were sitting in a ring . And to whomsoever the child gave the apple , that man should marry the king 's daughter . ` Of course , ' said the king , ` it may not be the right man , after all , but then again it MAY be . Anyhow , it is the best we can do . ' The princess herself led the child into the room where the twenty men were now seated .... Then he called the child in , but the little girl knew him again , and went straight up to him with the XXXXX .
+
+Fill in the XXXXX.",apple,apple|||ballroom|||beginning|||chamberlain|||father|||man|||person|||place|||pocket|||princess,cbt,15942
+"I have a new situation: Dan studied multicellular organisms that presented mutations. Group A presented gemline mutations, while group B presented somatic mutations. He was fascinated by these organisms.
+
+But I can use this background: Once again, a mutation is the change in the DNA or RNA sequence. In multicellular organisms, mutations can be subdivided into germline mutations and somatic mutations. Germline mutations occur in the DNA of sex cells, or gametes, and are therefore potentially very serious. These mutations can be passed to the next generation. If the zygote contains the mutation, every cell in the resulting organism will have that mutation. If the mutation results in a disease phenotype, the mutation causes what is called a hereditary disease. Somatic mutations , which occur in somatic, or body, cells, cannot be passed to the next generation (offspring). Mutations present in a somatic cell of an organism will be present (by DNA replication and mitosis) in all descendants of that cell. If the mutation is present in a gene that is not used in that cell type, the mutation may have no effect. On the other hand, the mutation may lead to a serious medical condition such as cancer.
+
+What is an answer for this question: Which group had more organisms having mutations that cannot be passed to the next generation?",group B,,ropes,5757
+"You know the following:
+
+Craig was an engineer for a technology company. A website was made to watch Craig twenty four hours a day.
+
+Which one is more believable?
+
+- This company allowed him to work from home
+- This company allowed him home from home",This company allowed him to work from home,This company allowed him to work from home|||This company allowed him home from home,art,22368
+"Summarize: Bella: What are you doing??
+Michael: Smoking weed .. Getting high.. Nothing much todo in life..
+Bella: Oh Michael.. You and your weed... I am coming to your home..
+Michael: But why?? Everything allright..
+Bella: I don't have anything to do.. Lets go and play FIFA in Richard's home..
+Michael: NO!! let me enjoy my weed...
+Bella: I know you are not that high.. if you were, we wouldn't be having this conversation right now...
+Michael: Okay okay.. Come on",Michael is smoking weed. Bella wants to visit him.,,samsum,6556
+"A kumquat is more likely than a steak to have
+- fluid
+- seeds
+- fibers
+- skin",seeds,fluid|||seeds|||fibers|||skin,openbookqa,2736
+"Read the following article and answer the question.
+Article: A 51-year-old lawyer has moved back in with his mother-after giving up his Los Angeles  home to a family of strangers for a year.
+Tony Tolbert looked for a family in need after his father set a glowing example when he was growing up by always welcoming people to stay in their spare room. ""You don't have to be Bill Gates or Warren Buffet or Oprah,"" Tolbert told CBS.  ""We can do it wherever we are, with whatever we have, and for me, I have a home that I can make available. "" His mother, Marie Tolbert, added,  "" He is go giving,  and he's always been that way. ""
+Tolbert went to Alexandria House, a shelter for homeless women and children, and came across Felicia Dukes, who lived in a single bedroom with three of her children.  Her family had been separated as the shelter was just for children and her eldest son was unable to join them. Tolbert told the staff he wanted to bring the. family back together, and offered his home. 
+The family has now moved into the three-bedroom, two-bathroom home - with Duke's oldest son. It is worth nearly $400,000, according to online estimates.  ""My heart just fills up with appreciation, ""  Dukes said, as she wiped away her tears.
+The heartwarming story comes after the report that l0-year-old Gracie McNulty, from England, served Christmas dinners t0 50 homeless people, achieving her fathers last Christmas wish.
+Her father Craig, 38, was a regular charity volunteer who had served breakfast to the homeless on Boxing Day.  But as a roofer, he suffered serious head injuries when he fell while working.  And 'he died soon after the accident in August.
+""It's been the best Christmas ever, "" Cracie said.  ""I was just at school feeling sad and so I decided I wanted to do something to make him proud and this felt like the perfect thing. ""
+Question: Tony Tolbert offered help to others because he was inspired by   _  '
+Answer:",his father,his mother|||his teacher|||his father|||his son,race,29136
+"Sentence 1: Yesss was sold to Hutchison Whampoa following the sale of Orange to Mobilkom Austria .
+Sentence 2: Yesss was sold to Mobilkom Austria following the sale of Orange to Hutchison Whampoa .
+Question: Do Sentence 1 and Sentence 2 express the same meaning? Yes or No?",No,No|||Yes,paws,2747
+"Process:
+- Water is heated
+- The heated water evaporates
+- The salt is left behind
+- The evaporated water condenses on a cold surface
+- The evaporated water is collected
+- The process is repeated
+- More salt is removed from the water.
+
+Question:
+suppose there is more sunlight happens, how will it affect MORE salt being removed from the water.
+
+How does the supposed perturbation influence the second effect mentioned. Answer by more, less or no effect",no effect,more|||less|||no effect,wiqa,28223
+"I can use this background: Hepatitis viruses can develop into a chronic viral infection that leads to liver cancer. Infection by human T-lymphotropic virus can lead to tropical spastic paraparesis and adult T-cell leukaemia. Human papillomaviruses are an established cause of cancers of cervix, skin, anus, and penis. Within the Herpesviridae, Kaposi's sarcoma-associated herpesvirus causes Kaposi's sarcoma and body-cavity lymphoma, and Epstein–Barr virus causes Burkitt's lymphoma, Hodgkin's lymphoma, B lymphoproliferative disorder, and nasopharyngeal carcinoma. Merkel cell polyomavirus closely related to SV40 and mouse polyomaviruses that have been used as animal models for cancer viruses for over 50 years.
+
+Now, I have a new situation: Two cousins both have chronic viral infections. Tim has Kaposi's sarcoma-associated herpesvirus, while Nate has the Epstein–Barr virus.
+
+Answer this question please: Which cousin has a higher chance of developing body-cavity lymphoma?",Tim,,ropes,4274
+the story the movie tells is of brian de palma's addiction to the junk-calorie suspense tropes that have all but ruined his career . What is the sentiment expressed in this text?,negative,negative|||positive,rotten_tomatoes,5551
+"I'd give Sakana a 3.5 if I could...The food was a 4, but the service was a 3.  They were busy and our server seemed new.\n\nAs always we looked on Yelp for somewhere to eat when we found ourselves on the road, away from our house, and looking for something great to eat. \n\nWe had the fried tofu (really good if you like tofu, Miso soup (hard to mess that up), edamame (free thanks to our Yelp check-in!), and an assortment of sushi that was really good.  \n\nWe will definately give Sakana another try if we end up in their part of town again.
+So I would like to give it",3 stars,1 star|||2 stars|||3 stars|||4 stars|||5 stars,yelp,30628
+"I think the prospect of riding his bike again should do the trick . As if that were n't bad enough , he came down with some kind of 24-hour bug this past Friday that basically sent him to bed for the day , waking up periodically for bathroom , Tylenol and drink breaks . During one , Rick went to get him some lemon - lime Gatorade and Geoffrey asked , "" Daddy ? Is that the stuff for light replacement ?
+Why did he ask if Gatorade was light replacement ?
+Pick the best answer from the following options:
+A. Gatorade replaces electrolytes and the boy misheard that information and asked what he thought it meant .
+B. None of the above choices .
+C. Because the lights burnt out in his room and he thought the Gatorade would help replace them .
+D. Because he thought the Gatorade would make it light outside so he could ride his bike again .",A,A|||B|||C|||D,cosmos_qa,2602
+The following movie review expresses what sentiment? hartley adds enough quirky and satirical touches in the screenplay to keep the film entertaining .,positive,negative|||positive,rotten_tomatoes,2552
+"I've been thinking about the mindwipe, now two days away. Who said that those who forget the past are doomed to repeat it? I fear that may be true for me. Add this to the reasons I write now: to remember something, perhaps even to learn -- Emil Malaquez arrived after sundown, carrying a small package wrapped in what looked like real paper. His evening dress was formal, expensive, and slightly stained, as that of all forgetful artists should be. He was a jovial man with an easy laugh, and even uglier than Tasha had suggested. I liked him immediately. ""Señor Malaquez?"" ""Please. Call me Emil. You must be Bernardo. Tasha's told me much about you."" ""All of it outrageous praise?"" ""All of it."" ""Ah, she is wonderfully perceptive."" He raised an eyebrow, then guffawed. ""Has she said as much about me?"" ""She thinks you are a genius. Do come in."" ""Thank you."" 
+Who was a jovial man? 
+Would it be good to answer ""Bernardo""?",No,No|||Yes,multirc,11663
+"Can you write an outline of the following article in a few points?
+
+Article: (CNN) -- German Chancellor Angela Merkel signed a coalition deal with the center-left German Social Democratic Party (SPD) on Wednesday, paving the way for a ""grand coalition"" of right and left. The SPD membership must still give final approval to the coalition agreement. They are expected to vote between December 6 and 12. The deal, agreed to early Wednesday, came more than two months after Germans voted in parliamentary elections and followed lengthy negotiations between Merkel's conservative bloc, her Christian Democratic Union party and the allied Christian Social Union, and its main opposition, the SPD. Speaking at a joint news conference with the leaders of the SPD and CSU, Merkel said the three main points of the deal concerned solid finances, safeguarding wealth, and social security. On the issue of solid finances, Merkel said Germany wants to see an end to debt and added that its strength relies on Europe also being strong. As for wealth, Merkel said it is important that the treaty includes no tax increases, which would help small businesses and give their workers job security. She promised investment in education and infrastructure projects, and spoke of the need to ensure Germany's future energy supply without nuclear power. Germans get minimum wage, pension boost . Despite their differences, the parties managed to reach a compromise on social security that balances flexibility and security, Merkel said. ""We went into the talks with very different ideas, and that is why it took a little while,"" she said. ""We have a good chance to say in 2017 that people will be better off than today."" Under the coalition treaty, a new nationwide minimum wage of 8.50 euros ($11.50) an hour will come into force starting January 2015. The 185-page treaty also includes a provision to lower the retirement age for some Germans. From July 2014, workers who have paid social security contributions for 45 years will be able to retire on a full pension at 63, two years earlier than is currently the case. If the deal is...","German chancellor's deal paves the way for a coalition of parties from the right and left .
+CDU general secretary: ""We have achieved a result that will be good for the country""
+The coalition deal must still be put to SPD members for final approval .
+Merkel's CDU party got the most votes in September's poll but not an outright victory .",,cnn_daily_mail,45321
+"Given the list of concepts: fan, basis, return; 
+Generate a sentence with all the concepts :",fans hope that football will return on a full time basis after they were knocked out early last year,,common_gen,34191
+"Context: Jordan is a member of the marines and was on tour, but has returned back home.
+
+Question: What does Jordan need to do before this?
+
+Which one of these answers best answers the question according to the context?
+
+A: finish his tour of duty
+
+B: get kicked out of the marines
+
+C: come home",A,A|||B|||C,social_iqa,29604
+"Can I replace the sentence
+"" After careful analysis , WHO has concluded that the risk to travelers to Beijing is now minimal , "" Omi said today at a news conference in Beijing .
+with the sentence
+"" After careful analysis , WHO has concluded that the risk to travellers to Beijing is now minimal , "" Omi told a news conference in Beijing on Tuesday .
+and have it mean the same thing?",yes,no|||yes,mrpc,2148
+"Given this review: ""Dim Need colors to be punchier and more icons options please""
+Would you recommend this app to a friend? Not at all, No, Maybe, Yes, or Definitely?",Maybe,Not at all|||No|||Maybe|||Yes|||Definitely,app_reviews,24639
+"BECU -  BECU is a credit union originally established to serve employees of The Boeing Company. BECU was founded as Fellowship Credit Union in 1935 by 18 Boeing employees and was named Boeing Employees' Credit Union for much of its history. Based in Tukwila Washington BECU has over $10.8 billion in assets and over 800000 members making it the largest credit union in Washington and fourth largest in the United States. Given a choice of categories company, educational institution, artist, athlete, office holder, mean of transportation, building, natural place, village, animal, plant, album, film or written work, the text refers to which one?",Company,Company|||Educational Institution|||Artist|||Athlete|||Office Holder|||Mean Of Transportation|||Building|||Natural Place|||Village|||Animal|||Plant|||Album|||Film|||Written Work,dbpedia,30614

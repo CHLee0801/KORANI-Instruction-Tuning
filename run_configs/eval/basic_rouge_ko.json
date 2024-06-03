@@ -1,0 +1,9 @@
+{
+    "mode": "eval",
+    "model_id": "google/mt5-xxl",
+    "dataset_path":"data/sentence_completion/kobest_copa/test_tmp0",
+    "epochs": 1,
+    "output_dir":"out/mt5_ko_eval_jh",
+    "metric":"rouge-ko",
+    "per_device_eval_batch_size":10
+}

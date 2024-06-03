@@ -1,0 +1,7 @@
+{
+    "mode": "eval",
+    "model_id": "google/mt5-small",
+    "epochs": 1,
+    "output_dir":"out/mt5_ko_eval",
+    "per_device_eval_batch_size":8
+}

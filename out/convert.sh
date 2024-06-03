@@ -1,0 +1,1 @@
+python zero_to_fp32.py --checkpoint_dir sample_ko_xxl/checkpoint-xx/ --output_file sample_ko_xxl/checkpoint-xx/pytorch_model.bin

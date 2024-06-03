@@ -1,0 +1,13 @@
+{
+    "mode": "train",
+    "model_id": "google/mt5-large",
+    "dataset_path":"data/sample_en",
+    "epochs": 1,
+    "output_dir":"out/sample_en_large",
+    "per_device_train_batch_size":4,
+    "gradient_accumulation_steps":4,
+    "lr":1e-5,
+    "deepspeed":"deepspeed_configs/z3_bf16.json",
+    "dataset_length":1000,
+    "n_gpu":4
+}
