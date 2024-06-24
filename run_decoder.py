@@ -182,13 +182,15 @@ def training_run(args):
             #args.model_id,
             args.checkpoint_path,
             use_cache=False if args.gradient_checkpointing else True,  # this is needed for gradient checkpointing
-            low_cpu_mem_usage=True
+            low_cpu_mem_usage=True,
+            torch_dtype=torch.bfloat16
         )    
     else:
         model = AutoModelForCausalLM.from_pretrained(
             args.model_id,
             use_cache=False if args.gradient_checkpointing else True,  # this is needed for gradient checkpointing
-            low_cpu_mem_usage=True
+            low_cpu_mem_usage=True,
+            torch_dtype=torch.bfloat16
         )   
 
     tokenizer = AutoTokenizer.from_pretrained(args.model_id)
@@ -226,6 +228,7 @@ def training_run(args):
         decoded_preds, decoded_labels = post_processor.process(preds, labels)
 
         if args.current_generation_or_not==1:
+            print("rouge!")
             result = metric_rouge_korean(decoded_preds, decoded_labels)    
         else:
             args.metric = get_accuracy(preds=decoded_preds, labels=decoded_labels)

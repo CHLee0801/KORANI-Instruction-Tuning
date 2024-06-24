@@ -83,7 +83,6 @@ def decoder_evaluate_prob(model, tokenizer, dataset_file, args):
             output_label = batch["option_label"]
             entries.append({'pred':predictions,'output_label':output_label, 'input_list':input_list})
 
-
     accelerator.wait_for_everyone()
     # print(len(entries))
     entries_gathered = accelerator.gather_for_metrics(entries)
@@ -205,6 +204,7 @@ def decoder_evaluate_generate(model, tokenizer, dataset_path, args):
                 input_dict[output_result['input']] = 1
             else:
                 continue
+            # print(output_result)
             preds.append(output_result["output"])
             refs.append(output_result["golden"])
             total_cnt += 1
@@ -212,9 +212,9 @@ def decoder_evaluate_generate(model, tokenizer, dataset_path, args):
         result = metric_rouge_korean(preds, refs)    
         print('rouge:', result['rouge'])
         if args.checkpoint_path == '':
-            wr.writerow([args.model_id, args.current_dataset, result['rouge']])
+            wr.writerow([args.model_id, args.current_dataset, round(result['rouge']*100,3)])
         else:
-            wr.writerow([args.checkpoint_path, args.current_dataset, result['rouge']])
+            wr.writerow([args.checkpoint_path, args.current_dataset, round(result['rouge']*100,3)])
         f.close()  
 
     # exit()    
