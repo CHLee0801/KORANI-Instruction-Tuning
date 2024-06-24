@@ -38,6 +38,7 @@ wget https://bitbucket.org/eunjeon/mecab-ko-dic/downloads/mecab-ko-dic-2.1.1-201
 tar xvfz mecab-ko-dic-2.1.1-20180720.tar.gz
 cd mecab-ko-dic-2.1.1-20180720
 ./configure
+./autogen.sh
 make
 sudo make install
 ```
