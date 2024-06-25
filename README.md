@@ -1,8 +1,28 @@
 # Deep Exploration of Cross-Lingual Zero-Shot Generalization in Instruction Tuning
 
-This is the official github repository for 'Deep Exploration of Cross-Lingual Zero-Shot Generalization in Instruction Tuning' [ACL 2024 Findings].
+This is the official github repository for 'Deep Exploration of Cross-Lingual Zero-Shot Generalization in Instruction Tuning' [[ACL 2024 Findings](https://arxiv.org/abs/2406.08796)].
+
+Citation:
+```
+@misc{han2024deep,
+    title={Deep Exploration of Cross-Lingual Zero-Shot Generalization in Instruction Tuning},
+    author={Janghoon Han and Changho Lee and Joongbo Shin and Stanley Jungkyu Choi and Honglak Lee and Kynghoon Bae},
+    year={2024},
+    eprint={2406.08796},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
+```
+
+KORANI datasets and task taxonomy. Green datasets are NLG datasets. Yellow datasets are NLU datasets.
+
+![korani_task_taxonomy](https://github.com/CHLee0801/KORANI-Instruction-Tuning/assets/87512263/606c0f59-3de5-4993-bd91-b37d8f227678)
 
 ## 0. Install Dependencies
+```
+conda create -n korani python=3.10
+conda activate korani
+```
 
 ```
 # install torch with the correct cuda version, check nvcc --version
@@ -64,9 +84,6 @@ pip install mecab-python
 ```
 
 ## 1. KORANI Datasets
-
-![korani_task_taxonomy](https://github.com/CHLee0801/KORANI-Instruction-Tuning/assets/87512263/606c0f59-3de5-4993-bd91-b37d8f227678)
-KORANI datasets and task taxonomy. Green datasets are NLG datasets. Yellow datasets are NLU datasets.
 
 Please download the KORANI datasets and unzip it to utilize it.
 
@@ -168,3 +185,16 @@ Run the inference.sh file to evaluate! You can either choose task cluster(s) to 
 ```
 bash inference.sh
 ```
+
+### Results on Korean LLMs
+
+We report the ROUGE-L score for the generation task (Summarization and Coreference Resolution), and ACC for the others.
+
+| Model | Sentiment | Summarization | Multiple Choice QA | NLI | Sent. Comp. | WSD | Coref. Resol. | Average |
+| ----- | --------- | ------------- | ------------------ | --- | ----------- | --- | ------------- | ------- |
+| [PolyGlot 1.3b](https://huggingface.co/EleutherAI/polyglot-ko-1.3b)	| 47.723	| 3.277	| 34.133	| 33.56	| 48.183	| 2.17	| 48.81	| 31.122| 
+| [PolyGlot 3.8b](https://huggingface.co/EleutherAI/polyglot-ko-3.8b)	| 47.783	| 3.138	| 34.133	| 33.56	| 48.167	| 0.435	| 48.81	| 30.861| 
+| [PolyGlot 5.8b](https://huggingface.co/EleutherAI/polyglot-ko-5.8b)	| 49.076	| 3.995	| 37.333	| 33.75	| 52.817	| 2.497	| 48.837	| 32.615| 
+| [PolyGlot 12.8b](https://huggingface.co/EleutherAI/polyglot-ko-12.8b)	| 45.963	| 4.026	| 37.7	| 33.817	| 54.734	| 2.497	| 49.79	| 32.647| 
+| [Llama-3-Open-Ko-8B](https://huggingface.co/beomi/Llama-3-Open-Ko-8B)	| 44.303	| 2.256	| 49.267	| 34.355	| 52.983	| 1.28	| 48.81	| 33.322| 
+| [T3Q-ko-solar-dpo-v7.0](https://huggingface.co/chihoonlee10/T3Q-ko-solar-dpo-v7.0)	| 76.753	| 10.138	| 67.4	| 61.925	| 74.475	| 6.185	| 78.295	| 53.596| 
